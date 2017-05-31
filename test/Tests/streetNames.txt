@@ -1,0 +1,5000 @@
+NL000,Drontheimer Straﬂe
+NL001,Kaserne Nordtor
+NL002,U-Bahnhof Lindauer Allee
+NL003,Lindauer Allee
+NL004,Galenusstraﬂe
+NL005,Trabener Steg
+NL006,Berliner Straﬂe
+NL007,Zehntwerderweg
+NL008,Waidmannsluster Damm
+NL009,Seeweg
+NL010,Konstanzer Straﬂe
+NL011,Roseneck
+NL012,Roseneck
+NL013,Breitscheidplatz
+NL014,Goerdelerdamm
+NL015,Hasensprung
+NL016,Paulsenstraﬂe
+NL017,U Friedrich-Wilhelm-Platz
+NL018,Masurenallee
+NL019,S Zehlendorf
+NL020,Carmerplatz
+NL021,Rathaus Steglitz
+NL022,Friedenauer Br¸cke
+NL023,Marchstraﬂe
+NL024,Siriusstraﬂe
+NL025,An der M¸hle
+NL026,Poststadion
+NL027,U Jakob-Kaiser-Platz
+NL028,Wannseebr¸cke
+NL029,Otisstraﬂe
+NL030,S Schˆneberg
+NL031,Storkower Straﬂe
+NL032,Hahneberg
+NL033,Ausbau
+NL034,Schˆnower Park
+NL035,Lindenstraﬂe
+NL036,Alsterweg
+NL037,Obentrautstraﬂe
+NL038,Sp‰thstraﬂe
+NL039,Krematorium Ruhleben
+NL040,G¸terbahnhof Ruhleben
+NL041,Teltower Straﬂe
+NL042,U Blissestraﬂe
+NL043,U Osloer Straﬂe
+NL044,Bl¸cherstraﬂe
+NL045,S Messe Nord
+NL046,Heinrichplatz
+NL047,Dorfstraﬂe
+NL048,Zepernick
+NL049,Waldowallee
+NL050,Karolinenhˆhe
+NL051,Conradstraﬂe
+NL052,Dirschelweg
+NL053,Buckower Ring
+NL054,Blumberger Damm
+NL055,Rudolf-Leonhard-Straﬂe
+NL056,Rebhuhnweg
+NL057,Hinter der M¸hle
+NL058,Jan-Petersen-Straﬂe
+NL059,Paul-Dessau-Straﬂe
+NL060,S-Bahnhof Raoul-Wallenberg-Straﬂe
+NL061,Schwarzburger Straﬂe
+NL062,Nossener Straﬂe
+NL063,Lichterfelder Weg
+NL064,Seglerweg
+NL065,Zum Heckeshorn
+NL066,Blankenburger Weg
+NL067,Darﬂer Straﬂe
+NL068,Berliner Allee
+NL069,Falkenberger Chaussee
+NL070,Kiefheider Weg
+NL071,Senftenberger Ring Ost
+NL072,Beusselstraﬂe
+NL073,Seestraﬂe
+NL074,Siedlereck
+NL075,Wasserwerk Beelitzhof
+NL076,Fercher Straﬂe
+NL077,Rahnsdorf Waldsch‰nke
+NL078,M¸ggelseeperle
+NL079,Alt-M¸ggelheim
+NL080,Tschaikowskistraﬂe
+NL081,Moritzstraﬂe
+NL082,Straﬂe 603
+NL083,Fachinger Str.
+NL084,Havelblick
+NL085,Klinikum Neukˆlln
+NL086,Rabensteiner Straﬂe
+NL087,Berliner Mauerweg
+NL088,Berlin
+NL089,Tor D
+NL090,Mˆnchsheimer Straﬂe
+NL091,Friedrich-Wolf-Straﬂe
+NL092,Salvador-Allende-Br¸cke
+NL093,Glienike
+NL094,Altglienicke Kirche
+NL095,Altglienicker Br¸cke
+NL096,Bahnhof Wittenau
+NL097,Ottomar-Geschke-Straﬂe
+NL098,Chris-Gueffroy-Allee
+NL099,Glienicker Straﬂe
+NL100,U Rudow
+NL101,Drakestraﬂe
+NL102,Schˆnefeld Waltersdorfer Chaussee
+NL103,Wupperstraﬂe
+NL104,Vier Eichen
+NL105,Cecilienstraﬂe
+NL106,Schlosspark Biesdorf
+NL107,Rapsweg
+NL108,Lichtenrade
+NL109,Mehringbr¸cke
+NL110,Tor C
+NL111,Mˆrderberg
+NL112,B¸rgerablage
+NL113,U Strausberger Platz
+NL114,U Haselhorst
+NL115,Prerower Platz
+NL116,Scholzplatz
+NL117,Calauer Straﬂe
+NL118,Schildhorn
+NL119,Johannisthal Kirche
+NL120,Sommerbad Neukˆlln
+NL121,Mollwitzstraﬂe
+NL122,Goldk‰ferweg
+NL123,Freudstraﬂe
+NL124,Hochhausweg
+NL125,Schˆneiche bei Berlin
+NL126,S Hohenzollerndamm
+NL127,Brunsb¸tteler Damm
+NL128,Stadtgrenze
+NL129,Julius-Leber-Kaserne
+NL130,S Pl‰nterwald
+NL131,Alt-Schmˆckwitz
+NL132,Straﬂe 3
+NL133,Straﬂe 6
+NL134,Chausseehaus
+NL135,Markgrafendamm
+NL136,Am Rund
+NL137,Gotthardstraﬂe
+NL138,Mehrower Allee
+NL139,S-Bahnhof Hermsdorf
+NL140,Am Volkspark
+NL141,Gosen
+NL142,Waldhornstraﬂe
+NL143,M¸ggelheim
+NL144,Weltlingerbr¸cke
+NL145,Am Festplatz
+NL146,S Westkreuz
+NL147,Heiligenseestraﬂe
+NL148,Geygerstraﬂe
+NL149,Alt-Heiligensee
+NL150,Memhardstraﬂe
+NL151,Mollstraﬂe
+NL152,Alexanderplatz
+NL153,Alexanderplat
+NL154,Staatsoper
+NL155,Mollstraﬂe
+NL156,Brandenburger Tor
+NL157,Berliner Rathaus
+NL158,U Alexanderplatz
+NL159,Stedingerweg
+NL160,Kniprodestraﬂe
+NL161,L¸tzowplatz
+NL162,Schillstraﬂe
+NL163,Bayreuther Straﬂe
+NL164,Zoologischer Garten
+NL165,Unter den Linden
+NL166,Nordische Botschaften
+NL167,U Mohrenstraﬂe
+NL168,Lahnstraﬂe
+NL169,Kienappelweg
+NL170,Fanningerstraﬂe
+NL171,Mellenseestraﬂe
+NL172,A Haupeingang CharitÈplatz
+NL173,U Blaschkoallee
+NL174,Buschkrug
+NL175,Ludwigshˆheweg
+NL176,S Kˆllnische Heide
+NL177,Pablo-Neruda-Straﬂe
+NL178,Kˆllnischer Platz
+NL179,Glienicker Weg
+NL180,Boschweg
+NL181,Neuer Weg
+NL182,Gosen M¸ggelpark
+NL183,S Potsdamer Platz
+NL184,U Dahlem Dorf
+NL185,Lˆhleinstraﬂe
+NL186,Hittorfstraﬂe
+NL187,Ehrenbergstraﬂe
+NL188,S Lichterfelde West
+NL189,Berkaer Straﬂe
+NL190,Scabellstraﬂe
+NL191,Giesensdorfer Straﬂe
+NL192,S Lichterfelde Ost
+NL193,S Gr¸nau
+NL194,Hasselwerderstraﬂe
+NL195,Wegedornstraﬂe
+NL196,Kˆpenicker Straﬂe
+NL197,Magnusstraﬂe
+NL198,Ostpreuﬂendamm
+NL199,S Karlshorst
+NL200,S Mexikoplatz
+NL201,Hellersdorfer Straﬂe
+NL202,U Kaulsdorf-Nord
+NL203,Neue Grottkauer Straﬂe
+NL204,Jungfernstieg
+NL205,Boschpoler Straﬂe
+NL206,Marienstraﬂe
+NL207,Ostpreuﬂendamm
+NL208,Goerzallee
+NL209,Marienfelder Allee
+NL210,Krankenhaus Hedwigshˆhe
+NL211,Stuthirtenweg
+NL212,Reihersteg
+NL213,Bitscher Straﬂe
+NL214,U-Bahnhof Alt-Tegel
+NL215,Jugendherberge
+NL216,Neukˆllnische Allee
+NL217,Dammweg
+NL218,S Sonnenallee
+NL219,Friedenfelser Straﬂe
+NL220,Friedhof Marienfelde
+NL221,Nahmitzer Damm
+NL222,Rennsteig
+NL223,Skarbinastraﬂe
+NL224,Nahariyastraﬂe
+NL225,Ahrensdorfer Straﬂe
+NL226,Bauﬂnernweg
+NL227,Stadtrandsiedlung
+NL228,Tirschenreuther Ring
+NL229,Weskammstraﬂe
+NL230,S Lichterfelde S¸d
+NL231,Celsiusstraﬂe S¸d
+NL232,S Schichauweg
+NL233,U Wilmersdorfer Straﬂe
+NL234,Fuldastraﬂe
+NL235,Irmastraﬂe
+NL236,Hadubrandstraﬂe
+NL237,Elsenallee
+NL238,U Elsterwerdaer Platz
+NL239,Anemonenstraﬂe
+NL240,Salvador-Allende-Straﬂe
+NL241,Bellevuepark
+NL242,Mahlsdorfer Straﬂe
+NL243,Semliner Straﬂe
+NL244,Feuersteiner Straﬂe
+NL245,Deutschhofer Allee
+NL246,Walter-Felsenstein-Straﬂe
+NL247,Bitterfelder Straﬂe
+NL248,Boxberger Straﬂe
+NL249,Landsberger Allee
+NL250,Lea-Grundig-Straﬂe
+NL251,Kˆthener Straﬂe
+NL252,Demminer Straﬂe
+NL253,Waldfriedhof M¸ggelheim
+NL254,Gosener Kanal
+NL255,W¸rttembergallee
+NL256,Sewanstraﬂe
+NL257,Tannh‰userstraﬂe
+NL258,Ilsestraﬂe
+NL259,Sangeallee
+NL260,Hentigstraﬂe
+NL261,Marksburgstraﬂe
+NL262,Rheinsteinstraﬂe
+NL263,Treskowallee
+NL264,Gregoroviusweg
+NL265,Gr¸ne Aue
+NL266,Donizettistraﬂe
+NL267,Pfalzgrafenweg
+NL268,Strauﬂstraﬂe
+NL269,Hultschiner Damm
+NL270,Kiefholzstraﬂe
+NL271,Frauenlobstraﬂe
+NL272,Sonnenallee
+NL273,Baumschulenstraﬂe
+NL274,Riesestraﬂe
+NL275,Britzer Damm
+NL276,Betriebshof Britz
+NL277,Gradestraﬂe
+NL278,Oberspreestraﬂe
+NL279,U Krumme Lanke
+NL280,Bergaustraﬂe
+NL281,Eichbuschallee
+NL282,Kˆpenicker Landstraﬂe
+NL283,Rathaus Treptow
+NL284,Alt-Treptow
+NL285,Sowjetisches Ehrenmal
+NL286,M¸ggelheimer Straﬂe
+NL287,Schloﬂplatz Kˆpenick
+NL288,S Spindlersfeld
+NL289,Friedlander Straﬂe
+NL290,S Schˆneweide
+NL291,Schnellerstraﬂe Karlshorster Straﬂe
+NL292,Marggraffbr¸cke
+NL293,Baumschulenstraﬂe Kˆpenicker Landstraﬂe
+NL294,Kˆpenicker Landstraﬂe Sportplatz
+NL295,Neukladower Allee
+NL296,Hortwinkeler Weg
+NL297,Wrˆhm‰nnerpark
+NL298,Eichenstraﬂe Puschkinallee
+NL299,Elsenstraﬂe S Treptower Park
+NL300,Hertzbergplatz
+NL301,Spenerstraﬂe
+NL302,Gˆschenplatz S-Bahnhof Wittenau
+NL303,Gartenstraﬂe
+NL304,Kirchstraﬂe Alt-Moabit
+NL305,Dominicusstraﬂe Hauptstraﬂe
+NL306,Heiligenseestraﬂe Ruppiner Chaussee
+NL307,Einfahrt West
+NL308,Seydlitzstraﬂe
+NL309,Dietzgenstraﬂe Mittelstraﬂe
+NL310,U Hallesches Tor
+NL311,Im Spektefeld Schulzentrum
+NL312,Waldstraﬂe
+NL313,U Nollendorfplatz
+NL314,Ziegrastraﬂe
+NL315,Mareschstraﬂe
+NL316,Cunostraﬂe
+NL317,Mergentheimer Straﬂe
+NL318,Wedellstraﬂe
+NL319,Haberstraﬂe
+NL320,Schulenburgpark
+NL321,Michael-Bohnen-Ring
+NL322,Peter-Anders-Straﬂe
+NL323,Gosen Eichwalder Straﬂe
+NL324,Am Oberhafen
+NL325,Potsdam
+NL326,Rudower Chaussee Wegedornstraﬂe
+NL327,Walther-Nernst-Straﬂe
+NL328,Tischlerzeile
+NL329,Veitstraﬂe
+NL330,Namslaustraﬂe
+NL331,Dianastraﬂe
+NL332,Jˆrsstraﬂe
+NL333,Schulzendorfer Straﬂe Ruppiner Chaussee
+NL334,U-Bahnhof Paracelsus-Bad Aroser Allee
+NL335,Holl‰nderstraﬂe Aroser Allee
+NL336,Grindelwaldweg
+NL337,Techowpromenade
+NL338,Alt-Wittenau Roedernallee
+NL339,Schmitzweg
+NL340,Weinbrennerweg
+NL341,Roedernallee Flottenstraﬂe
+NL342,Herkomerstraﬂe
+NL343,Rethelstraﬂe
+NL344,Klingerstraﬂe
+NL345,U Hermannplatz Sonnenallee
+NL346,Zehlendorf Eiche
+NL347,Winfriedstraﬂe
+NL348,Kleinaustraﬂe
+NL349,Von-Laue-Straﬂe
+NL350,Birger-Forell-Platz
+NL351,Kˆnigin-Luise-Platz Botanischer Garten
+NL352,Unter den Eichen Drakestraﬂe
+NL353,Askanierring
+NL354,Allee der Kosmonauten Poelchaustraﬂe
+NL355,Gutenbergstraﬂe
+NL356,S Kˆpenick
+NL357,Lemkestraﬂe Lenbach Straﬂe
+NL358,L¸becker Straﬂe
+NL359,WSP
+NL360,Zentralfriedhof
+NL361,Leonorenstraﬂe Siemensstraﬂe
+NL362,Tempelherrenstraﬂe
+NL363,Urbanstraﬂe Baerwaldstraﬂe
+NL364,Kˆrtestraﬂe
+NL365,Graefestraﬂe
+NL366,U Hermannplatz Urbanstraﬂe
+NL367,Jahnstraﬂe
+NL368,Sonnenallee Pannierstraﬂe
+NL369,Geibelstraﬂe
+NL370,Foxweg
+NL371,Alte Fˆrsterei
+NL372,U-Bahnhof Scharnweberstraﬂe
+NL373,Bentschener Weg
+NL374,Bahnhofstraﬂe Lindenstraﬂe
+NL375,Gr¸ner Weg Gutschmidtstraﬂe
+NL376,Spindlersfelder Straﬂe
+NL377,Alt-Marzahn
+NL378,S-Bahnhof Ahrensfelde
+NL379,Gehrenseestraﬂe
+NL380,Bennostraﬂe
+NL381,Gottfriedstraﬂe
+NL382,S-Bahnhof Gehrenseestraﬂe
+NL383,Welsestraﬂe
+NL384,Alt-Moabit Rathenower Straﬂe
+NL385,U-Bahnhof Franz-Neumann-Platz
+NL386,Kirchstraﬂe
+NL387,Berliner Allee Rennbahnstraﬂe
+NL388,Alt-Friedrichsfelde Rhinstraﬂe
+NL389,U Boddinstraﬂe
+NL390,Barbarossastraﬂe
+NL391,Pfarrer-Heﬂ-Weg
+NL392,Joseph-Joachim-Platz
+NL393,Barther Straﬂe
+NL394,Sch¸tzallee Riemeisterstraﬂe
+NL395,S Westend
+NL396,Auguste-Viktoria-Klinikum S¸d
+NL397,Temmeweg
+NL398,U-Bahnhof Holzhauser Straﬂe
+NL399,Haynauer Straﬂe
+NL400,U Rathaus Reinickendorf
+NL401,Falkenseer Platz
+NL402,Zur Haveld¸ne
+NL403,Hermannstraﬂe
+NL404,Prenzlauer Allee Ostseestraﬂe
+NL405,Ringslebenstraﬂe Mollnerweg
+NL406,K¸nnekeweg
+NL407,Modersohnstraﬂe
+NL408,Neukˆllner Straﬂe Zwickauer Damm
+NL409,Windenweg
+NL410,Glockenblumenweg
+NL411,Petunienweg
+NL412,Massantebr¸cke
+NL413,Stubenrauchstraﬂe
+NL414,Schule
+NL415,Sterndamm
+NL416,Eichenauer Weg
+NL417,Neuhofer Straﬂe
+NL418,Waltersdorfer Chaussee
+NL419,Narkauer Weg
+NL420,Lieselotte-Berger-Straﬂe
+NL421,Hiltrud-Dudek-Weg
+NL422,Stadtgrenze Rudow
+NL423,Groﬂgˆrschenstraﬂe
+NL424,Kˆpenicker Straﬂe
+NL425,Frauenschuhweg
+NL426,Hagenplatz
+NL427,Regattastraﬂe Schule
+NL428,M‰ckeritzwiesen
+NL429,U-Bahnhof Reinickendorfer Straﬂe Fennstraﬂe
+NL430,Hermsdorfer Damm Martin-Luther-Straﬂe
+NL431,E - Einfahrt Hannoversche Straﬂe
+NL432,S Schˆneweide Sterndamm
+NL433,Straﬂe 577
+NL434,Schˆnefelder Straﬂe Neuhofer Straﬂe
+NL435,Lieselotte-Berger-Platz
+NL436,Friederike-Nadig-Straﬂe
+NL437,Kapaunenstraﬂe
+NL438,Leghornweg
+NL439,Lakenfelderweg
+NL440,Prierosser Straﬂe
+NL441,Ostburger Weg Lettberger Straﬂe
+NL442,Herzblattweg
+NL443,Gontermannstraﬂe
+NL444,Warschauer Straﬂe
+NL445,Wernsdorf
+NL446,Heinrich-Bˆll-Straﬂe
+NL447,Erkner
+NL448,Wilhelmstraﬂe Kochstraﬂe
+NL449,Waldeckpark
+NL450,Alexandrinenstraﬂe
+NL451,Lindenstraﬂe Oranienstraﬂe
+NL452,Hermannstraﬂe Mariendorfer Weg
+NL453,Britzer Straﬂe
+NL454,Dokumentationszentrum NS-Zwangsarbeit
+NL455,Bruno-B¸rgel-Weg
+NL456,S Treptower Park
+NL457,Ritterfelddamm Potsdamer Chaussee
+NL458,Berlin Pankow
+NL459,Helene-Weigel-Platz
+NL460,Hauptbahnhof
+NL461,Tegelort
+NL462,Pietschkerstraﬂe
+NL463,Tr¸tzschlerstraﬂe
+NL464,Lindhorstweg
+NL465,Sterndamm Kˆnigsheideweg
+NL466,Ludwigsfelder Straﬂe Sachtlebenstraﬂe
+NL467,U Hermannplatz
+NL468,Venusstraﬂe
+NL469,Korkedamm
+NL470,Ortolfstraﬂe Venusstraﬂe
+NL471,Engelhardstraﬂe Pilotenstraﬂe
+NL472,Wegedornstraﬂe
+NL473,Dankmarsteig
+NL474,Baluschekweg
+NL475,U Turmstraﬂe
+NL476,Intercamping
+NL477,Lemkestraﬂe Greifswalder Straﬂe
+NL478,Knollstraﬂe
+NL479,Zoppoter Straﬂe
+NL480,Schuchardtweg
+NL481,Rathaus Wannsee
+NL482,U Walther-Schreiber-Platz
+NL483,Zitadelle Spandau
+NL484,U-Bahnhof Platz der Luftbr¸cke
+NL485,Schˆnefeld
+NL486,Schulzendorfer Straﬂe Parchwitzer Straﬂe
+NL487,Wehrmathen
+NL488,Waltersdorfer Straﬂe Parchwitzer Straﬂe
+NL489,Eichbuschplatz
+NL490,Buchsbaumweg
+NL491,Will-Meisel-Weg
+NL492,Maxim-Gorki-Straﬂe
+NL493,Amalienstraﬂe
+NL494,Grabbeallee Pastor-Niemˆller-Platz
+NL495,Karwendelstraﬂe
+NL496,Holbeinstraﬂe
+NL497,Hochbergweg
+NL498,U Ernst-Reuter-Platz
+NL499,Lindenstraﬂe
+NL500,Paul-Lˆbe-Haus Reichstag
+NL501,Rudower Straﬂe Schnellerstraﬂe
+NL502,Haus des Rundfunks
+NL503,Machandelweg
+NL504,Alt-Moabit Gotzkowskystraﬂe
+NL505,Glienicker Lake
+NL506,Schloss Glienicke
+NL507,Am Heidefriedhof
+NL508,Lerchenweg
+NL509,Drakestraﬂe Gardesch¸tzenweg
+NL510,S-Bahnhof Tegel
+NL511,Glienicker Br¸cke
+NL512,Buchholzweg
+NL513,Spektebr¸cke
+NL514,Zossener Br¸cke
+NL515,S Eichwalde
+NL516,Siedlung Waltersdorf
+NL517,Karl-Marx-Straﬂe
+NL518,Fontaneallee
+NL519,Schmˆckwitzwerder
+NL520,Magistratsweg Brunsb¸tteler Damm
+NL521,Am Hegewinkel
+NL522,Quitzowstraﬂe
+NL523,Halbauer Weg
+NL524,Titiseestraﬂe
+NL525,Park Inn
+NL526,Teutonenstraﬂe
+NL527,U Spittelmarkt
+NL528,BASt Z‰hlstelle Nikolassee
+NL529,Finnenhaus-Siedlung
+NL530,Waldallee
+NL531,Auﬂenweg
+NL532,Landschaftsfriedhof Gatow
+NL533,Abtstraﬂe
+NL534,Adlergestell Glienicker Weg
+NL535,Betonwerk
+NL536,B‰renlauchstraﬂe
+NL537,B¸chnerweg
+NL538,Eichwalde
+NL539,Freystadter Weg
+NL540,Friedenstraﬂe
+NL541,Havellandstraﬂe
+NL542,Radickestraﬂe Anna-Seghers-Straﬂe
+NL543,Radickestraﬂe Nipkowstraﬂe
+NL544,Rosenweg
+NL545,S Adlershof
+NL546,Schmˆckwitzer Straﬂe
+NL547,Schnellerstraﬂe Kˆllnische Straﬂe
+NL548,Vollkropfgraben
+NL549,Wassersportallee
+NL550,Mertensstraﬂe
+NL551,Brunsb¸tteler Damm Ruhlebener Straﬂe
+NL552,Kˆttgenstraﬂe
+NL553,Harriesstraﬂe
+NL554,Saatwinkler Damm Rohrdamm
+NL555,Ashdodstraﬂe
+NL556,Sachtlebenstraﬂe
+NL557,Wannseebadweg
+NL558,Kˆnigin-Luise-Straﬂe Clayallee
+NL559,Alt-Schˆnow
+NL560,Beeskowdamm
+NL561,Rathaus Weiﬂensee
+NL562,Rohrdammbr¸cke
+NL563,Bootsbauerstraﬂe
+NL564,Krachtstraﬂe
+NL565,Fafnerstraﬂe
+NL566,Eichwalde;Berlin
+NL567,Lichterfelder Ring Waldsassener Straﬂe
+NL568,S Anhalter Bahnhof
+NL569,Neuruppiner Straﬂe
+NL570,Trusethaler Straﬂe
+NL571,Alliiertenmuseum
+NL572,Finkenstraﬂe
+NL573,Berlinickeplatz
+NL574,U Wittenbergplatz
+NL575,Rathausstraﬂe Kaiserstraﬂe
+NL576,Corneliusbr¸cke
+NL577,Hasenhegerweg
+NL578,Neukˆlln
+NL579,Friedenstraﬂe Groﬂbeerenstraﬂe
+NL580,Dorfstraﬂe Lindenberger Straﬂe
+NL581,Wilhelm-von-Siemens-Straﬂe
+NL582,Rote-Kreuz-Straﬂe
+NL583,Am Gehrensee
+NL584,U Theodor-Heuss-Platz S¸d
+NL585,Alt Kladow
+NL586,Parnemannweg
+NL587,Weinmeisterweg
+NL588,Hermann-Hesse-Straﬂe Waldstraﬂe
+NL589,Bahnhofstraﬂe Seelenbinderstraﬂe
+NL590,Spandauer Straﬂe Marienkirche
+NL591,Bahnhof Pankow Granitzstraﬂe
+NL592,Erich-Weinert-Straﬂe
+NL593,S-Bahnhof Wollankstraﬂe Sternstraﬂe
+NL594,Otto-Franke-Straﬂe
+NL595,Krampnitzer Weg Selbitzer Straﬂe
+NL596,Lichtenberg Siegfriedstraﬂe
+NL597,Gernotstraﬂe
+NL598,U Mendelssohn-Bartholdy-Park
+NL599,Varian-Fry-Straﬂe
+NL600,Abgeordnetenhaus
+NL601,Potsdamer Platz
+NL602,Philharmonie S¸d
+NL603,Kulturforum
+NL604,Stromstraﬂe
+NL605,Marktplatz Adlershof
+NL606,Freiheit
+NL607,In den Kaveln
+NL608,Yorckstraﬂe S2 S25 U7
+NL609,Yorckstraﬂe S1 U7
+NL610,S Yorckstraﬂe S1
+NL611,M¸ggelschlˆﬂchenweg
+NL612,Krankenhaus Kˆpenick Besuchereingang
+NL613,U Karl-Marx-Straﬂe
+NL614,B‰umerplan
+NL615,Karower Damm Georgenstraﬂe
+NL616,Potsdamer Br¸cke
+NL617,Hoeppnerstraﬂe
+NL618,Badener Ring
+NL619,Dudenstraﬂe Katzbachstraﬂe
+NL620,Friedrichshagener Straﬂe Kabelwerk
+NL621,H¸nefeldzeile
+NL622,Steglitzer Damm Halskestraﬂe
+NL623,East Side Gallery
+NL624,Am Anger
+NL625,Friedrich-G¸nther-Park
+NL626,Boschpoler Platz
+NL627,Hiroshimasteg
+NL628,Heliosstraﬂe
+NL629,H‰nflingsteig
+NL630,Kiebitzgrund
+NL631,Pekrunstraﬂe
+NL632,U Alt-Mariendorf
+NL633,U Oskar-Helene-Heim
+NL634,Am Bogen
+NL635,Siedlung Hakenfelde
+NL636,Johannisthaler Chaussee Fritz-Erler-Allee
+NL637,Krankenhaus Kˆpenick S¸dseite
+NL638,Kleinschewskystraﬂe
+NL639,Veltheimstraﬂe Schildower Straﬂe
+NL640,S Mahlsdorf
+NL641,Lindenhof
+NL642,Schmidt-Ott-Straﬂe
+NL643,Wilhelmsm¸hlenweg
+NL644,Oberbaumbr¸cke
+NL645,for osm Transport Karte
+NL646,Schildow Kirche
+NL647,Kirche Groﬂ Glienicke
+NL648,Bucher Chaussee Achillesstraﬂe
+NL649,Wildau
+NL650,S Pankow-Heinersdorf
+NL651,Wernsdorfer Straﬂe
+NL652,Invalidensiedlung
+NL653,Buschallee Hansastraﬂe
+NL654,U-Bahnhof Kurt-Schumacher-Platz
+NL655,Porschestraﬂe
+NL656,Zu den Krugwiesen
+NL657,U Schwartzkopffstraﬂe
+NL658,Room in Appartment for Rent - BITCOIN
+NL659,U Hˆnow
+NL660,Hugo-Heimann-Straﬂe
+NL661,Busseallee
+NL662,Invalidenpark
+NL663,Lehrter Straﬂe Invalidenstraﬂe
+NL664,Trinkwassernotbrunnen
+NL665,Hermsdorfer Damm Berliner Straﬂe
+NL666,Spechtstraﬂe
+NL667,Heinersdorf Kirche
+NL668,S Attilastraﬂe
+NL669,Waldsiedlung Groﬂ Glienicke
+NL670,U Naturkundemuseum
+NL671,Heidebergplan
+NL672,Wedding
+NL673,M‰rkische Zeile
+NL674,Tiefenseer Straﬂe
+NL675,Wilhelmsruher Damm
+NL676,Dietrichinger Weg
+NL677,Atrium
+NL678,Bernshausener Ring
+NL679,U-Bahnhof Wittenau
+NL680,Wilhelsruher Damm
+NL681,Scharnhorststraﬂe Habersaathstraﬂe
+NL682,Brunnenstraﬂe Invalidenstraﬂe
+NL683,U Rosenthaler Platz
+NL684,Flohrstraﬂe
+NL685,Hechelstraﬂe
+NL686,Uranusweg
+NL687,U-Bahnhof Afrikanische Straﬂe
+NL688,U Seestraﬂe
+NL689,Amandastraﬂe
+NL690,Gemeindefriedhof
+NL691,Gerichtstraﬂe
+NL692,Rathaus Wedding
+NL693,U Reinickendorfer Straﬂe Fennstraﬂe
+NL694,U Reinickendorfer Straﬂe
+NL695,U-Bahnhof Stadtmitte
+NL696,U Kochstraﬂe Checkpoint Charlie
+NL697,Wilhelmstraﬂe Franz-Kl¸hs-Straﬂe
+NL698,Bergmannstraﬂe
+NL699,Tempelhof
+NL700,U Alt-Tempelhof
+NL701,U Paradestraﬂe
+NL702,U Tempelhof Ringbahnstraﬂe
+NL703,Mariendorfer D. Eisenacher Straﬂe
+NL704,Rathaus Tempelhof
+NL705,Tempelhofer D. Ordensmeisterstraﬂe
+NL706,U-Bahnhof Kaiserin-Augusta-Straﬂe
+NL707,U Ullsteinstraﬂe
+NL708,U Westphalweg
+NL709,Herbststraﬂe
+NL710,Reginhardtstraﬂe B¸dnerring
+NL711,Stargardtstraﬂe
+NL712,Iranische Straﬂe
+NL713,Walderseestraﬂe
+NL714,U-Bahnhof Leopoldplatz
+NL715,Klemkestraﬂe
+NL716,Kosleckweg
+NL717,Didostraﬂe
+NL718,Nobelstraﬂe Bergiusstraﬂe
+NL719,Schmalenbachstraﬂe
+NL720,Neukˆllnische Allee Forsthausallee
+NL721,Lange Enden
+NL722,Grimmelshausenstraﬂe
+NL723,Grazer Platz
+NL724,Dessauer Straﬂe
+NL725,Cranachstraﬂe
+NL726,Alexanderstraﬂe
+NL727,S Ostbahnhof
+NL728,M¸ngersdorfer Straﬂe
+NL729,Rebenweg
+NL730,R¸bezahl
+NL731,Elsterplatz
+NL732,Wendenschloﬂ
+NL733,Baumschulenstraﬂe F‰hre
+NL734,Lohm¸hlenplatz
+NL735,Lohm¸hlenstraﬂe Heidelberger Straﬂe
+NL736,Freizeit- und Erholungszentrum
+NL737,Nixenstraﬂe
+NL738,Bellevuestraﬂe
+NL739,Puchanstraﬂe
+NL740,Bethaniendamm
+NL741,Eisenbahnstraﬂe
+NL742,Falckensteinstraﬂe
+NL743,Fischerinsel
+NL744,Heckmannufer
+NL745,Jerusalemer Straﬂe
+NL746,Kˆpenicker Straﬂe Adalbertstraﬂe
+NL747,Manteuffelstraﬂe Kˆpenicker Straﬂe
+NL748,Michaelkirchstraﬂe
+NL749,Taborstraﬂe
+NL750,U-Bahnhof Heinrich-Heine-Straﬂe
+NL751,U Schlesisches Tor
+NL752,U Stadtmitte Krausenstraﬂe
+NL753,U Stadtmitte Leipziger Straﬂe
+NL754,Alfred-Scholz-Platz
+NL755,Erkstraﬂe
+NL756,U Rathaus Neukˆlln
+NL757,Herrfurthstraﬂe
+NL758,Fontanestraﬂe Flughafenstraﬂe
+NL759,Woltersdorf
+NL760,Marzahner Straﬂe
+NL761,S Baumschulenweg
+NL762,Schˆnower Straﬂe
+NL763,S Wannsee
+NL764,Potsdamer Chaussee Lindenthaler Allee
+NL765,Niklassstraﬂe
+NL766,Forststraﬂe
+NL767,Gutzmannstraﬂe
+NL768,Behring-Krankenhaus
+NL769,Schrockstraﬂe
+NL770,Machnower Straﬂe Berlepschstraﬂe
+NL771,Machnower Straﬂe
+NL772,Scharfestraﬂe
+NL773,Sch¸tzallee
+NL774,Leichhardtstraﬂe
+NL775,Clayallee 229
+NL776,Nibelungenstraﬂe
+NL777,Isoldestraﬂe
+NL778,Ludwigsfelder Straﬂe
+NL779,Umspannwerk Malchow
+NL780,Persantestraﬂe
+NL781,Am Tegeler Flieﬂ
+NL782,Heerstraﬂe Wilhelmstraﬂe
+NL783,S-Bahnhof Buch
+NL784,U-Bahnhof Amrumer Straﬂe
+NL785,U-Bahnhof Birkenstraﬂe
+NL786,Perleberger Br¸cke
+NL787,Bildhauerweg
+NL788,Achardstraﬂe
+NL789,Adolfstraﬂe
+NL790,Alt-Kaulsdorf Chemnitzer Straﬂe
+NL791,Chemnitzer Straﬂe J‰gerstraﬂe
+NL792,Filehner Straﬂe
+NL793,Gerdastraﬂe
+NL794,Heerstraﬂe Chemnitzer Straﬂe
+NL795,Hoppendorfer Straﬂe
+NL796,Planitzstraﬂe
+NL797,Wernitzer Straﬂe
+NL798,Motzstraﬂe
+NL799,Zinsgutstraﬂe
+NL800,Halker Zeile
+NL801,Kettinger Straﬂe
+NL802,Mariendorfer Damm Buckower Chaussee
+NL803,S Buckower Chaussee
+NL804,Alt-Buckow
+NL805,Arnikaweg
+NL806,Buchfinkweg
+NL807,B¸hler Weg
+NL808,Delmer Steig
+NL809,Fritz-Erler-Allee Neukˆllner Straﬂe
+NL810,Grauwackeweg
+NL811,Johannisthaler Chaussee Rudower Straﬂe
+NL812,Lipschitzallee Rudower Straﬂe
+NL813,Pfarrer-Vogelsang-Weg
+NL814,Quarzweg Marienfelder Chaussee
+NL815,Rufacher Weg
+NL816,Steintr‰gerweg
+NL817,U Johannisthaler Chaussee
+NL818,Coloniaallee
+NL819,Nahmitzer Damm
+NL820,Nahmitzer Damm Motzener Straﬂe
+NL821,Jupiterstraﬂe
+NL822,U Grenzallee
+NL823,Willy-Brandt-Haus
+NL824,Budapester Straﬂe
+NL825,U-Bahnhof G¸ntzelstraﬂe
+NL826,Grenzweg Ost
+NL827,Maffeistraﬂe Ost
+NL828,W¸nsdorfer Straﬂe Blohmstraﬂe
+NL829,Lesser-Ury-Weg
+NL830,Behrenstraﬂe Wilhelmstraﬂe
+NL831,Leipziger Straﬂe Wilhelmstraﬂe
+NL832,Niemetzstraﬂe
+NL833,S Sonnenallee Saalestraﬂe
+NL834,Zeitzer Straﬂe
+NL835,Lichtenberger Straﬂe
+NL836,Lustgarten
+NL837,Nikolaiviertel
+NL838,Alexanderplatz Grunerstraﬂe
+NL839,Jannowitzbr¸cke
+NL840,Friedrichstraﬂe
+NL841,Charlottenstraﬂe
+NL842,Franz-Kl¸hs-Straﬂe
+NL843,J¸disches Museum
+NL844,Persiusstraﬂe
+NL845,S Ostkreuz
+NL846,Stralauer Allee
+NL847,Fischerh¸ttenstraﬂe
+NL848,F¸rstenstraﬂe
+NL849,Holl‰ndische M¸hle
+NL850,Mittelstraﬂe
+NL851,Rathaus Zehlendorf
+NL852,Thielallee Dahlemer Weg
+NL853,An den Achterhˆfen
+NL854,Britzer Damm Mohriner Allee
+NL855,Britzer Garten
+NL856,Buckower Damm Gutschmidtstraﬂe
+NL857,Dachdeckerweg
+NL858,Fulhamer Allee
+NL859,Germaniapromenade
+NL860,Mollnerweg
+NL861,Schlosserweg
+NL862,Stadtgrenze
+NL863,Wussowstraﬂe
+NL864,Zimmererweg
+NL865,Glogauer Straﬂe
+NL866,Lausitzer Platz
+NL867,Mariannenplatz
+NL868,Ohlauer Straﬂe
+NL869,Segitzdamm
+NL870,U Gˆrlitzer Bahnhof
+NL871,U Moritzplatz
+NL872,Waldemarstraﬂe Adalbertstraﬂe
+NL873,Waldemarstraﬂe Manteuffelstraﬂe
+NL874,Wrangelstraﬂe
+NL875,Hohenstaufenplatz
+NL876,Karl-Marx-Platz
+NL877,Kottbusser Br¸cke
+NL878,Mengerzeile
+NL879,Planetenstraﬂe
+NL880,Prinzenstraﬂe Ritterstraﬂe
+NL881,Reuterstraﬂe
+NL882,U Hermannplatz Karl-Marx-Straﬂe
+NL883,U Kottbusser Tor
+NL884,U Schˆnleinstraﬂe
+NL885,Weichselstraﬂe
+NL886,Buckower Damm Ringslebenstraﬂe
+NL887,Drˆpkeweg
+NL888,Groﬂziethen Rudolf-Breitscheid-Straﬂe
+NL889,Hˆrsingsteig
+NL890,Landreiterweg
+NL891,Emser Straﬂe
+NL892,U Leinestraﬂe
+NL893,Buschkrugallee Parchimer Allee
+NL894,Flurweg Seidelbastweg
+NL895,Franz-Kˆrner-Straﬂe
+NL896,Fuchsienweg
+NL897,Goldlackweg
+NL898,Haarlemer Straﬂe
+NL899,Kolibriweg
+NL900,Onkel-Herse-Straﬂe
+NL901,Rotkehlchenweg
+NL902,Rotschwanzweg
+NL903,Rudower Straﬂe Gr¸ner Weg
+NL904,Storchenweg
+NL905,U Grenzallee Jahnstraﬂe
+NL906,Zadekstraﬂe
+NL907,Am Brandpfuhl
+NL908,Ankogelweg
+NL909,Gl‰rnischweg
+NL910,Goldenes Horn S¸d
+NL911,Hundsteinweg
+NL912,Im Rosengrund
+NL913,Neumarkplan
+NL914,Pilatusweg
+NL915,Rixdorfer Straﬂe Britzer Straﬂe
+NL916,Rotkopfweg
+NL917,Sandsteinweg
+NL918,Tauernallee S‰ntisstraﬂe
+NL919,Trabrennbahn
+NL920,Windrˆschenweg
+NL921,Mˆllendorffstraﬂe Storkower Straﬂe
+NL922,Gradestraﬂe 71
+NL923,Gradestraﬂe 91
+NL924,Columbiadamm Friesenstraﬂe
+NL925,Columbiadamm Platz der Luftbr¸cke
+NL926,Friedhˆfe Columbiadamm
+NL927,Golﬂener Straﬂe
+NL928,U Prinzenstraﬂe
+NL929,Fichtestraﬂe
+NL930,Hasenheide
+NL931,U S¸dstern
+NL932,Ahornallee
+NL933,Altes Wasserwerk
+NL934,Bruno-Wille-Straﬂe
+NL935,Josef-Nawrocki-Straﬂe
+NL936,Licht- und Luftbad M¸ggelsee
+NL937,M¸ggelseedamm Bˆlschestraﬂe
+NL938,M¸hlweg
+NL939,Strandbad M¸ggelsee
+NL940,Unter den Birken
+NL941,Westendsiedlung
+NL942,Wongrowitzer Steig
+NL943,Hirschgarten
+NL944,Wassermannstraﬂe
+NL945,Br¸ckenstraﬂe
+NL946,Alt-Mahlsdorf
+NL947,Bruchsaler Straﬂe
+NL948,B¸tower Straﬂe
+NL949,Eichenhofweg
+NL950,Erich-Baron-Weg
+NL951,Ledebourstraﬂe
+NL952,Rahnsdorfer Straﬂe
+NL953,Roseggerstraﬂe
+NL954,Wilhelminenhofstraﬂe Edisonstraﬂe
+NL955,Roederplatz
+NL956,U Frankfurter Tor
+NL957,Arnfriedstraﬂe
+NL958,Aurorafalterweg
+NL959,Dohlengrund
+NL960,Gleiwitzer Straﬂe
+NL961,Grabensprung
+NL962,Kˆpenicker Straﬂe Innovationspark
+NL963,Pirolstraﬂe
+NL964,Blumberger Damm Eisenacher Straﬂe
+NL965,Kienbergstraﬂe G‰rten der Welt
+NL966,M‰rkische Allee Wuhletalstraﬂe
+NL967,S Mehrower Allee
+NL968,Schleusinger Straﬂe
+NL969,Sella-Hasse-Straﬂe
+NL970,Littenstraﬂe
+NL971,Stralauer Platz
+NL972,Altentreptower Straﬂe
+NL973,Wuhletal
+NL974,Marktstraﬂe
+NL975,Giersstraﬂe
+NL976,Hauptstraﬂe Rhinstraﬂe
+NL977,Pasedagplatz
+NL978,S Springpfuhl
+NL979,U Tierpark
+NL980,Adersleber Weg
+NL981,Barnimplatz
+NL982,Betriebshof Marzahn
+NL983,Brodowiner Ring
+NL984,Landsberger Chaussee Zossener Straﬂe
+NL985,Platz der Vereinten Nationen
+NL986,Riesaer Straﬂe Louis-Lewin-Straﬂe
+NL987,Schorfheidestraﬂe
+NL988,Stendaler Straﬂe Quedlinburger Straﬂe
+NL989,Torstraﬂe U Oranienburger Tor
+NL990,U Hellersdorf
+NL991,U Rosa-Luxemburg-Platz
+NL992,Hohenschˆnhauser Straﬂe Weiﬂenseer Weg
+NL993,Konrad-Wolf-Straﬂe
+NL994,Albertinenstraﬂe
+NL995,Greifswalder Straﬂe Ostseestraﬂe
+NL996,Antwerpener Straﬂe
+NL997,Seestraﬂe Amrumer Straﬂe
+NL998,Virchow-Klinikum
+NL999,Betriebshof Indira-Gandhi-Straﬂe
+NO000,Majorstukrysset
+NO001,Majorstuen
+NO002,Prinsenkrysset
+NO003,Skansenkrysset
+NO004,Utleirmark
+NO005,Stubbanvegen
+NO006,Nydalsveien
+NO007,Hoff terrasse
+NO008,Vinderenkrysset
+NO009,Lysaker bru
+NO010,Biermanns gate
+NO011,Valle
+NO012,Stillatorvet
+NO013,Fv800 ÿysand
+NO014,Gr¯nliveien
+NO015,Stig
+NO016,Bogerudmyra
+NO017,Abilds¯krysset
+NO018,Risvollvegen
+NO019,Hallset
+NO020,Nesset
+NO021,Myrland
+NO022,Trosterudkrysset
+NO023,Haugerudveien
+NO024,Klemetsrud krk
+NO025,RÂdhussvingen
+NO026,Seiersten
+NO027,Gr¯ndal
+NO028,Billitt
+NO029,TrollÂsveien
+NO030,Langvik
+NO031,Herbernveien
+NO032,Himstadplassen
+NO033,Bogstad Camping
+NO034,Riddervolds plass
+NO035,Kastellet
+NO036,Nydalen T
+NO037,Brekkekrysset
+NO038,Holmendammen
+NO039,Kampen
+NO040,Kj¯lberggata
+NO041,Kroklia
+NO042,Nesheimsfjellet
+NO043,Langeland
+NO044,Mestad
+NO045,Forvo
+NO046,Fadnestreet
+NO047,SolvikÂsen
+NO048,KjelsÂs Midtoddveien
+NO049,≈sakrysset
+NO050,Osveien
+NO051,Smestadkrysset
+NO052,Smestad
+NO053,Storokrysset
+NO054,Adamstuen
+NO055,Ryen varde
+NO056,Haarklous plass
+NO057,Sigrid Undsets vei
+NO058,Peder Ankers vei nÊr Jansbergvn
+NO059,RV44 KÂsen
+NO060,Lerbrekk
+NO061,Bygdinvegen
+NO062,Orrestad
+NO063,≈rrestad
+NO064,Gjermestad
+NO065,RV44 ÿksnevad
+NO066,Fagerland
+NO067,Sevland
+NO068,TrÊhaug
+NO069,Karmsundgata s¯r
+NO070,RV510 Nesbuveien
+NO071,FV382 Grannes
+NO072,FV443 BÊrheim
+NO073,Iddebo
+NO074,Marienlyst
+NO075,Nedre Kleppe
+NO076,Fyllingsdalsveien
+NO077,Storetveitveien
+NO078,Midtun
+NO079,Skovveien
+NO080,Svensby
+NO081,Lyngseidet
+NO082,IKEA Furuset
+NO083,Kjelsrud
+NO084,Hellinga
+NO085,Bogerud T
+NO086,Bjerke
+NO087,Nedstrand
+NO088,Helg¯y
+NO089,Fogn
+NO090,Sand
+NO091,Holsteinveien
+NO092,Dal¯y
+NO093,Gjervik
+NO094,Ortnevik kai
+NO095,Hareid-Sulesund
+NO096,SÊb¯
+NO097,Konglevegen
+NO098,Sandaker
+NO099,Olav Kyrres gate D
+NO100,Volvat
+NO101,Zahlkasserer Schafts plass
+NO102,Prof. Birkelands vei
+NO103,Stjerneblokkveien
+NO104,Ryensvingen
+NO105,Slagendalen
+NO106,SÊterkrysset
+NO107,PÂlakrossen
+NO108,Orre
+NO109,Klepp prestegard
+NO110,Borekrossen
+NO111,RV510 SÊle
+NO112,Gimra
+NO113,ÿstli
+NO114,Greverud kirke
+NO115,Gjersj¯en
+NO116,Ingierodden
+NO117,S¯ndre Skogveien S
+NO118,HÂbakken
+NO119,1900-krysset
+NO120,≈sland
+NO121,Terland
+NO122,Moldhaug
+NO123,SaksÂ
+NO124,Stompabakken
+NO125,Foss-Vatne
+NO126,Holekrossen
+NO127,RV509 Soma
+NO128,Fjermestad
+NO129,Rettedalen
+NO130,JÂvall
+NO131,BrÂstein
+NO132,Sviland
+NO133,Hogstad
+NO134,Hommeland
+NO135,Seldal
+NO136,SolgÂrdkrysset
+NO137,Hjortsbergveien
+NO138,Lende
+NO139,Ekeveien 1
+NO140,Berglyveien
+NO141,TÂsen st
+NO142,Statoil Sandslivegen
+NO143,Skredderveien
+NO144,Vadmyra snuplass
+NO145,Innstefjord
+NO146,Holmedal
+NO147,Vatnavatnet
+NO148,Valenkrysset
+NO149,Steinslandskrysset
+NO150,S¯ndre Skogveien N
+NO151,Kristian Bings vei
+NO152,Straume
+NO153,Knarholmkrysset
+NO154,Hellekleiva
+NO155,Rognemyr
+NO156,Torsvik kryss
+NO157,Alvheim veg s¯r
+NO158,Nautnes
+NO159,≈se kryss
+NO160,Krokedal
+NO161,Politihuset
+NO162,SkarnesbrÂten
+NO163,Fv. 175 ≈sum
+NO164,Losby
+NO165,Stabbur
+NO166,Skjoldbakken
+NO167,Vold skog
+NO168,ÿbergveien 49
+NO169,ÿbergveien-Harekasveien
+NO170,Nordstuen
+NO171,Stangnes
+NO172,Knardal
+NO173,Ekeveien 25
+NO174,Knardalsveien
+NO175,Vetleflaten
+NO176,HMV
+NO177,Fredheim
+NO178,Fv450 Nybakk
+NO179,ÿvre Risl¯kka
+NO180,Lindeveien
+NO181,KÂkern bru
+NO182,Fiskeb¯l
+NO183,Melbu
+NO184,Gryllefjord
+NO185,Andenes
+NO186,Rikshospitalet SV v blindvei rundkj
+NO187,Falkensvingen
+NO188,Utne
+NO189,Haugland
+NO190,TÂrland
+NO191,Orstad
+NO192,Frode Rinnans veg
+NO193,Festningen
+NO194,Br. Olsen
+NO195,Gr¯ndalsbakken Kirkevegen
+NO196,Einar Lunds veg
+NO197,R¯stbakktoppen
+NO198,Skillebekk
+NO199,Jonny Svorkmos vei
+NO200,Olaus Fj¯rtofts vei
+NO201,Steinan
+NO202,Haugnessvingen
+NO203,Solli p-plass
+NO204,Fykenborg
+NO205,Reppe endeholdeplass
+NO206,Frekhaug
+NO207,Tyholtveien
+NO208,Hammeren
+NO209,Jansl¯kka
+NO210,Fiolsvingen
+NO211,Lutvannsveien
+NO212,Alvheim
+NO213,Tjeldst¯
+NO214,Verket
+NO215,Movann
+NO216,Hakadal Verk
+NO217,Hakadal st. v undergang
+NO218,Langhaugen
+NO219,NygÂrd
+NO220,TorgÂrdsletta K-snitt
+NO221,H¯nefoten
+NO222,Sandermosen vest
+NO223,Sandermosen stasjon
+NO224,Sandermosen st.
+NO225,Fv.465 Gjervollstad
+NO226,MjÂvatn
+NO227,≈rstaddalen
+NO228,Bjorland
+NO229,Nj¯lstad
+NO230,Garborg
+NO231,BlÂklokkevegen
+NO232,Sm¯rblomstvegen
+NO233,Konrblomstvegen
+NO234,Hasselstien
+NO235,Kvilhaugveien
+NO236,Botnhamn
+NO237,Velle
+NO238,Granveien
+NO239,Svelvik
+NO240,Lia
+NO241,Bugges veg
+NO242,Olav Trondsons veg
+NO243,Vann¯y
+NO244,Rugdeveien
+NO245,Botnen
+NO246,FantoftÂsen
+NO247,Ullestad
+NO248,Kaltveit bru
+NO249,Valheim
+NO250,StorÂ bru
+NO251,Nesvik
+NO252,Mo
+NO253,Ropeid
+NO254,Saudasj¯en
+NO255,Dragsvik
+NO256,Bergkrystallen T
+NO257,BrÂten
+NO258,Hvervenbukta
+NO259,Asd¯l P
+NO260,Bj¯rnstad
+NO261,Hvalstad st. P
+NO262,VakÂs st.
+NO263,Sikakrysset
+NO264,Nordbergkrysset
+NO265,KolsÂskrysset
+NO266,Bykrysset
+NO267,Nordliveien
+NO268,Hauge Solengveien
+NO269,≈rhus
+NO270,≈svangvegen
+NO271,Moholtlia
+NO272,SteinÂsen
+NO273,Ole Nordgaards veg
+NO274,Moholt O-snitt
+NO275,Dalen Hageby
+NO276,Fj¯svollan
+NO277,Hestsj¯en
+NO278,Mikkelvik-Bromnes Torghatten Nord
+NO279,Myrvang
+NO280,Mikkelveien
+NO281,Stavsetsvingen
+NO282,Holtakrossen
+NO283,Vervassheia
+NO284,Ytre Lauvrak
+NO285,Haug
+NO286,Tollbodallmenningen i Strandgaten
+NO287,Akvariet
+NO288,Kirkeveien
+NO289,Reinslettkrysset
+NO290,R¯nvikkrysset
+NO291,Kleivakrysset
+NO292,Vollenkrysset
+NO293,Nidarvoll skole
+NO294,Levik
+NO295,TauÂna
+NO296,Esvahl
+NO297,Tolvsr¯dsenteret
+NO298,Nordre Jarbakken
+NO299,Gryta
+NO300,Heggdalen
+NO301,Fosse
+NO302,Universitetet i ≈s
+NO303,Kvalvik
+NO304,Auli
+NO305,Nes
+NO306,Dikemark avd.3
+NO307,Krokekra
+NO308,Margrete Munthes veg
+NO309,Veelkrysset
+NO310,KjelsÂskrysset
+NO311,R¯d
+NO312,Finstad
+NO313,Elvebakken
+NO314,Solsvik Elvebakken Rv. 561
+NO315,S¯dal
+NO316,Godheim
+NO317,Durudbakken
+NO318,J¯rgenrudkrysset
+NO319,J¯rgenrud
+NO320,Langhus stasjon
+NO321,Bj¯rheimsbygd
+NO322,RV409 Kvernevikveien
+NO323,Seivika
+NO324,Mundheim
+NO325,Amundr¯d
+NO326,Storekra
+NO327,Gongst¯
+NO328,≈staddammen
+NO329,Pikeskolen
+NO330,Turisthytta
+NO331,Kjul
+NO332,Hauger
+NO333,V Veikryssing Falken
+NO334,Ask
+NO335,Spenningsby
+NO336,Ringerike
+NO337,Sund
+NO338,Badeplassen
+NO339,≈mot P
+NO340,Bratli
+NO341,Dalssvingen
+NO342,≈rnes
+NO343,Bertneskrysset
+NO344,Smeland
+NO345,Javnneskrysset
+NO346,Lundbakken
+NO347,Dagsvik
+NO348,Her¯y
+NO349,HundÂla
+NO350,Ylvingen
+NO351,Hjalmar Andersens Vei
+NO352,Oscar Wistings vei
+NO353,Karlsrud
+NO354,Myntevik
+NO355,M. Espeland
+NO356,Wiikskiftet
+NO357,Brinken
+NO358,Marmorveien
+NO359,Steinaunet
+NO360,Glimmerveien
+NO361,Feltspatveien
+NO362,Steinsrudtjern
+NO363,Lambertseterveien
+NO364,Stokker gÂrd
+NO365,Finstad hageby
+NO366,Tau
+NO367,H¯yland
+NO368,S¯yland
+NO369,NÊrland
+NO370,Stavnheim
+NO371,Erga
+NO372,KvalvÂg
+NO373,Botne
+NO374,Skillebekk
+NO375,Riska
+NO376,Statens havarivernskole
+NO377,F¯rlandsvatnet
+NO378,Berg
+NO379,SofiemyrÂsen
+NO380,Granholtet
+NO381,Haugbro
+NO382,Saksvikvollen
+NO383,Rutledal ferjekai
+NO384,Sandermosen
+NO385,ÿstmarksetra P
+NO386,Lillesand
+NO387,Jordbru skytebanen
+NO388,Jordbru jorde N
+NO389,Levang
+NO390,Nesna
+NO391,Kilboghavn
+NO392,Jektvik
+NO393,Hofles
+NO394,H¯ylandet
+NO395,Sj¯Âsen
+NO396,Norskot
+NO397,KvÊrnervn. i Ski
+NO398,Knippah¯la
+NO399,Peder Ankers
+NO400,Lilltvet
+NO401,Holm
+NO402,Isdamvegen
+NO403,Leirvika
+NO404,Hemnesberget
+NO405,NordbrÂtan
+NO406,Skar
+NO407,Bjoneroa
+NO408,Brattvollveien
+NO409,Munkerudkleiva
+NO410,Fivasvingen
+NO411,Kjelstadsvingen
+NO412,Langdalsvingen
+NO413,Hellesylt
+NO414,Horgenmyra
+NO415,Aursj¯evegen
+NO416,Suter¯d
+NO417,Feigum
+NO418,R¯dtvedt gÂrd N
+NO419,Haukeland sjukehus N
+NO420,Statsarkivet
+NO421,Torgallmenningen
+NO422,EidsvÂgneset
+NO423,Trolldalen
+NO424,Trollbekken
+NO425,T¯mmervÂgen
+NO426,LillevÂgen
+NO427,Hagebyen
+NO428,Geisnes
+NO429,Vogts gate
+NO430,Schous plass
+NO431,Kl¯versvingen
+NO432,B¯lerÂsen skole
+NO433,BlÂbÊrveien
+NO434,≈rstadveien
+NO435,Rustadsaga
+NO436,Lekneset
+NO437,D¯nna
+NO438,Bjellandshei
+NO439,Madland
+NO440,S¯rli sk
+NO441,Gressbanen
+NO442,Gransherad
+NO443,Ormemyr vegkryss
+NO444,ÿygarden - Sigridsbu
+NO445,Ringi
+NO446,Rysjedalsvika
+NO447,Gunnarshaug
+NO448,Spanne
+NO449,ToppÂsveien
+NO450,ÿsternvannv.-Ankerv.
+NO451,J¯ssingv.-ÿsternvannv.
+NO452,Hovland
+NO453,TuevÂgen
+NO454,Nordgulen
+NO455,Nese
+NO456,Dals¯yra
+NO457,Synnervika fergeleie
+NO458,Sl¯vÂg
+NO459,Sandbukta P
+NO460,Hans Burums vei
+NO461,Halsn¯ysambandet
+NO462,Risdalsveien
+NO463,R¯dsh¯gda
+NO464,Skansen
+NO465,Grinda kryss Peder Ankers vei ÿvre LangÂsvei
+NO466,Peder Ankers vei ved barnehage
+NO467,Melkeveien 33
+NO468,Dugstadfossen
+NO469,Askvoll
+NO470,Heggelia
+NO471,ToppÂs P
+NO472,Langmyrveien Havnabakken
+NO473,Voldsl¯kka
+NO474,SÊstad
+NO475,Skolpura
+NO476,Eia
+NO477,Paraksvika
+NO478,Geithus
+NO479,Lensvik
+NO480,Kongsskog
+NO481,Elnesveien
+NO482,Drange
+NO483,SÊtreskogen P
+NO484,OppegÂrd stasjon
+NO485,Gramstad
+NO486,Jelstad
+NO487,Vestre Spone
+NO488,HetlevikÂsen Snuplass
+NO489,Jar
+NO490,Gjervollstadkrysset
+NO491,Smedstad E16
+NO492,Avkj¯ring Ringeriksvn.
+NO493,DÊli Sÿ
+NO494,DÊlivann S
+NO495,Hokstad
+NO496,ÿvresaga bru
+NO497,Helland
+NO498,Bakken
+NO499,Rognsbakken
+NO500,Osavegen
+NO501,Lekvebakken
+NO502,Hauge ungdomshus
+NO503,HÂvastein
+NO504,Lier st.
+NO505,Evanger vest Teigdalsvegen
+NO506,Fv17 God¯ystraumen
+NO507,Kyrkjefloten
+NO508,Hamrane
+NO509,Orrefloten
+NO510,Brekkesvingen
+NO511,Husflidskulen
+NO512,Finnesvegen
+NO513,Seimshagen s¯r
+NO514,Seimshagen nord
+NO515,Lekvemoen
+NO516,Davla
+NO517,Oldeide
+NO518,Nidarvoll
+NO519,Dalsbergstien
+NO520,Hengsengen
+NO521,D¯li
+NO522,Heggvn Spikkestadvn
+NO523,Kleiver
+NO524,ÿverland N
+NO525,D¯vik
+NO526,Gr¯demskrossen
+NO527,Voster
+NO528,Vasstveit
+NO529,KjeakrÂnÂ
+NO530,Solbakk
+NO531,Berge
+NO532,Hodnafjellvika
+NO533,Berger stadion
+NO534,Dysjaland
+NO535,Huse
+NO536,Refsal
+NO537,Letmolia
+NO538,Gjerde
+NO539,TP0110
+NO540,TP0111
+NO541,Kvernavegen
+NO542,Vassb¯
+NO543,Dombfoss
+NO544,TotlandsmyrÂ
+NO545,B¯
+NO546,≈nestad
+NO547,Ualand
+NO548,Rangen
+NO549,Husvegg
+NO550,Lillestr¯m terminal
+NO551,Vikanes
+NO552,Helle
+NO553,Sem sag
+NO554,General
+NO555,Lille Frogner all È
+NO556,Fossekallveien
+NO557,Heia Lierskogen sentrum
+NO558,Kraft Ringveien
+NO559,Evestad
+NO560,Valdeland
+NO561,Tanum Kirke
+NO562,Rekvesvegen
+NO563,Djukastein Rekvesvegen
+NO564,Sundsodden
+NO565,KvÊrnerbyen
+NO566,Kraft p-plass
+NO567,SIF
+NO568,Vik
+NO569,Hovdastad
+NO570,Breive Pumpstasjon
+NO571,Ydsteb¯
+NO572,Stavanger
+NO573,B¯veien Ovenstadveien
+NO574,KÂlholen
+NO575,E39 Randabergveien
+NO576,Lea
+NO577,Todnheim
+NO578,HÂland
+NO579,Skas
+NO580,PersbrÂtan
+NO581,ApalvÂgvegen
+NO582,Burud P
+NO583,Tengesdal
+NO584,Heskestad
+NO585,Norr¯nnaheimen Fv 562
+NO586,Alsvika
+NO587,Meling
+NO588,Neset
+NO589,Ystab¯havn
+NO590,Gr¯nningen
+NO591,Ystab¯
+NO592,Idrettsplassen
+NO593,Brattland
+NO594,S¯r-Varhaug
+NO595,Kalkverket
+NO596,Hovdeli
+NO597,ÿlstadveien ¯st
+NO598,Kartavoll
+NO599,Bompenger
+NO600,Aukland
+NO601,Skjoldastraumen
+NO602,Sandeid kirke
+NO603,ÿygardveien
+NO604,Bjerkliveien
+NO605,Hvasser skole
+NO606,Asbj¯rnhaug
+NO607,Toraneset
+NO608,Ringstad
+NO609,Bergerkrysset
+NO610,Sluppen
+NO611,Sentvet
+NO612,Kystmuseum
+NO613,BerlevÂg lufthavn
+NO614,Tjelmen
+NO615,Brattbakken
+NO616,PÂlsrud
+NO617,Heigre
+NO618,H¯lal¯kka
+NO619,Auestad
+NO620,Kjellingland
+NO621,Trossaviga
+NO622,Hemlikrysset
+NO623,Nordahl Bruns gate
+NO624,Sauheradvegen
+NO625,Sletthammer
+NO626,Vikse
+NO627,F¯rland
+NO628,Bollestad
+NO629,Isdammen S
+NO630,Garder
+NO631,Ulland
+NO632,Kvanndal
+NO633,Lillevann st.
+NO634,Hospitsveien
+NO635,Espeland Kai
+NO636,Hinderaker
+NO637,Visnes Verk
+NO638,Verkensbakken
+NO639,Friestad
+NO640,B¯lerÂsen
+NO641,N¯kleby
+NO642,Vollmo
+NO643,Fjone
+NO644,Drag
+NO645,Kj¯psvik
+NO646,Fv315 J¯rstadmoen
+NO647,Bulken
+NO648,Sandneset
+NO649,PineskÂr
+NO650,Nodland
+NO651,Bellvik fergekai
+NO652,Kinnartangen
+NO653,Haslum Kirke
+NO654,Sandve
+NO655,Risdal
+NO656,Ferkingstad
+NO657,Ferkingstad havn
+NO658,Stava
+NO659,≈mot
+NO660,T¯rneskog
+NO661,Tothammer
+NO662,Imsland
+NO663,Sagbakken
+NO664,Husavik
+NO665,Hebnes
+NO666,Jelsa
+NO667,Geiranger
+NO668,H¯ie
+NO669,Korsvoll
+NO670,Solvang
+NO671,Hjeltnes
+NO672,Bergseng
+NO673,Eng
+NO674,Vambheim
+NO675,Skrivervegen-Bekkefaret
+NO676,Skrivervegen 31
+NO677,Skrivervegen-Toresheimvegen
+NO678,Toresheimvegen
+NO679,H¯yderkrysset
+NO680,Staven
+NO681,LangevÂg
+NO682,BuavÂg
+NO683,Hosleveien
+NO684,Natsundet
+NO685,Leversund
+NO686,Takle
+NO687,Mollandseid
+NO688,Str¯mme
+NO689,Ingierkollveien
+NO690,Torshov
+NO691,Grefsenveien
+NO692,Bliksund
+NO693,Korsvik
+NO694,Utsiktsvegen-Marivegen
+NO695,Vegamot
+NO696,Sagdalen
+NO697,Matre
+NO698,Jenseberget
+NO699,Vassendakleivi
+NO700,Prester¯d
+NO701,Bilettkrysset
+NO702,BrÂtveit
+NO703,T¯tlandsvik
+NO704,Dyr¯y
+NO705,Seimsbardet
+NO706,Gullfjordungsvegen vest
+NO707,S¯vik
+NO708,Fikstveit
+NO709,Bjoland
+NO710,bollard
+NO711,Grindbakken
+NO712,Tomsemyrkrysset
+NO713,Ankerveien
+NO714,Rv7 Steinsdalen
+NO715,≈lgÂrd sv¯mmehall
+NO716,Stakkestad
+NO717,Lima
+NO718,Lommelandsvik
+NO719,FV349 Svanholmen
+NO720,Finn¯ytunnelen
+NO721,Talgjekrysset
+NO722,DalÂker
+NO723,ÿsthus
+NO724,ÿstb¯
+NO725,Kinsarvik
+NO726,Rekve Rekvevegen
+NO727,Skar P
+NO728,Gullesfjordbotn v.kr.
+NO729,ÿiongen
+NO730,Fv.43 Kollevoll
+NO731,Bjerkreim
+NO732,Urdalen
+NO733,Ekraveien
+NO734,Jegersborgdammen
+NO735,Jegersborgdammen V
+NO736,Styggedalen P
+NO737,Jegersborgdammen ÿ
+NO738,Zinoberveien 21
+NO739,Voksen
+NO740,Ullveien
+NO741,Voksentoppen
+NO742,E. Espeland
+NO743,Knud ÿyens vei
+NO744,Laugaland
+NO745,Fundingsland
+NO746,Kalkstien
+NO747,DalbolÂven
+NO748,Mastmovegen 21
+NO749,Bruksvegen
+NO750,Johan Falkbergets veg
+NO751,Isi P
+NO752,EngebrÂtan S
+NO753,Valler st. N
+NO754,ÿstre OppegÂrd
+NO755,OppegÂrd kirke
+NO756,Solstad v E16
+NO757,Ulvestuen S 50 m
+NO758,Gml.Ringeriksv-DÊliv
+NO759,Nordli NV
+NO760,ÿvre Lyse
+NO761,Stein gÂrd Sÿ
+NO762,Skipavik
+NO763,Eidssund
+NO764,Knabberudv.-Ankerv.
+NO765,LorÂsmarka
+NO766,Misje nord
+NO767,Svelgen bru
+NO768,Misje s¯r
+NO769,Kolltveit skule
+NO770,Skytterkollen S
+NO771,Knabberudv.-Gml.Ringeriksv.
+NO772,FV314 Gamlevegen
+NO773,Jakob kirke
+NO774,Rage
+NO775,≈farnes ferjekai
+NO776,S¯lsnes ferjekai
+NO777,Rv7 Kjepsoh¯gda
+NO778,Lindeberg
+NO779,Linge
+NO780,Kvam
+NO781,Uskekalven
+NO782,SmÂge
+NO783,Randa
+NO784,T¯mte
+NO785,Langsetl¯kka
+NO786,Galta
+NO787,Lyse nedre
+NO788,Skansebakken
+NO789,Kryss Industriveien Brynaflaten
+NO790,Lathus
+NO791,Krydderveien
+NO792,Byseter
+NO793,Rekeland
+NO794,Eide
+NO795,≈lebekkrysset
+NO796,Bergel¯kka Hadelandsveien
+NO797,Skrubbdal N
+NO798,Jondal fergekai
+NO799,Vesterled
+NO800,Sam. Eydes vei
+NO801,Bom Langen
+NO802,Nord-Varhaug
+NO803,≈sekrossen
+NO804,H¯lland
+NO805,Strandveien
+NO806,Strandkollen
+NO807,Prosted
+NO808,Vinterbro
+NO809,JordbÊrsletta
+NO810,Sofiemyr senter
+NO811,Oppheim
+NO812,VÂglia Sÿ
+NO813,Holta
+NO814,Tj¯stheim
+NO815,Mostua
+NO816,GjellerÂstoppen
+NO817,Fv78 Toven
+NO818,Fv78 Drevja
+NO819,Lekve
+NO820,Fedje
+NO821,SÊvr¯y
+NO822,R¯yken stasjon
+NO823,Busop
+NO824,Kl¯getveit
+NO825,Eikeland
+NO826,Saga
+NO827,SkÂnevik
+NO828,Tengs
+NO829,≈dlandsskiftet Espelandsvegen
+NO830,Rekefjord
+NO831,Nedre LauvÂs
+NO832,Birkeland
+NO833,Bj¯rnemo
+NO834,Barstad
+NO835,Rotten
+NO836,Byrkjemo
+NO837,Hellemork
+NO838,≈se
+NO839,SkÂra
+NO840,Gr¯neh¯len
+NO841,Hestnes
+NO842,Mong
+NO843,L¯yning
+NO844,KrÂkstad
+NO845,Vetlevatnet
+NO846,Bratthetland
+NO847,Grude
+NO848,ÿvre Maudal
+NO849,Nedre Maudal
+NO850,Nordb¯
+NO851,Hodne
+NO852,Verdens Ende
+NO853,Vangen
+NO854,Euje
+NO855,SkartveitvÂgen
+NO856,Kunes
+NO857,Halsne
+NO858,Mattisdalen
+NO859,R¯rtveit
+NO860,Grov
+NO861,Solland
+NO862,Tednes
+NO863,Bogsund kai
+NO864,ÿlesundet
+NO865,Knutsvik
+NO866,Oskvika
+NO867,Tuntland
+NO868,R¯gelstad
+NO869,Hjelmeland kai
+NO870,Galleland
+NO871,Vestre
+NO872,≈m
+NO873,Raunes
+NO874,Stokka
+NO875,Dalavik
+NO876,S¯ravÂge
+NO877,Lilleby
+NO878,ÿrnes
+NO879,LÂkafossen
+NO880,Roalkvam
+NO881,Ospevoll
+NO882,Vikedal motorbane
+NO883,Innbjoa kai
+NO884,Helgeland
+NO885,H¯yekvam
+NO886,Ytre Hamre
+NO887,Vikjo
+NO888,Toft¯ysund
+NO889,Brekke
+NO890,Amdal
+NO891,ÿvrab¯
+NO892,Vassendvik
+NO893,StormÊlen
+NO894,Kallst¯
+NO895,Torvastad
+NO896,Hauga
+NO897,Mannessj¯en
+NO898,Liknes
+NO899,SÊvik
+NO900,Munkjord
+NO901,Alvestadkroken
+NO902,Alvestad
+NO903,Boknaberg
+NO904,SÊb¯gÂrden
+NO905,Boknabergvatnet
+NO906,Loten
+NO907,VÂga
+NO908,Nydal
+NO909,F¯resvik
+NO910,Skokland
+NO911,Place of worship
+NO912,Residential
+NO913,Rausj¯
+NO914,Fv858 Ryaforbindelsen
+NO915,Vevelstadveien
+NO916,Raffelvegen
+NO917,Sandneshamn
+NO918,Brensholmen
+NO919,Br¯staneset
+NO920,Siim
+NO921,Tomter vei UnÂs
+NO922,Strand
+NO923,Rebbenesbotn
+NO924,L¯ksfjord
+NO925,MÂsvik
+NO926,Seterstien
+NO927,Stensgata
+NO928,Position 65
+NO929,Position 69
+NO930,Lindebergplassen P
+NO931,Hakadal P
+NO932,Welhavens gate
+NO933,Homansbyen
+NO934,Hanstad Skole
+NO935,RV44 Forusveien
+NO936,FV327 ≈rsvoll
+NO937,HÂfoss
+NO938,VÂge
+NO939,Vatne
+NO940,HurtigbÂt
+NO941,Hundeidvika
+NO942,Sykkylvsbrua
+NO943,Bj¯rgamarka vest
+NO944,ÿksfjord
+NO945,Tverrfjord
+NO946,Bryn skole
+NO947,Snoveien
+NO948,Ringveg Vest Dolviken
+NO949,Rudolf Nilsens veg
+NO950,Fanatorget
+NO951,KjÊrvoll
+NO952,Tob¯l Rv.120
+NO953,Gaupeveien
+NO954,Rausj¯ skole
+NO955,Sekken
+NO956,R¯yskattbakken
+NO957,MÂrvegen
+NO958,Vindingstad sk.
+NO959,H¯gÂslia
+NO960,Vestre Veng
+NO961,Fv800 Thamshamn
+NO962,≈ndalsvÂg
+NO963,Tj¯tta
+NO964,Sandnessj¯en
+NO965,ÿvre VÂge
+NO966,Moskenes
+NO967,Massing
+NO968,Isigrenda
+NO969,NÂkkves vei
+NO970,Eikeberget
+NO971,Kryss Fjellsb¯
+NO972,Fossekallen
+NO973,T¯mmerveien
+NO974,Tiursvingen
+NO975,Road blocked
+NO976,Krokstien
+NO977,BrattvÂg
+NO978,Dryna
+NO979,Sti til Slora
+NO980,J¯rgenrudkrysset ÿ 300m
+NO981,Langhus ÿ
+NO982,Slora
+NO983,Gamle Rv 4
+NO984,Bj¯rgeseter
+NO985,Eskerud
+NO986,Salhusvegen
+NO987,Skjetten senter
+NO988,Gunhildstua
+NO989,Gaustad T
+NO990,Grini
+NO991,Rohdel¯kken
+NO992,Krossleitet
+NO993,Ranavik
+NO994,Uri Martin Svingen
+NO995,Bispesvingen
+NO996,Grustaksvingen
+NO997,Brandlisvingen
+NO998,Bjerkli SV missing
+NO999,Lofsrud gÂrd
+UK000,Holme Crossing
+UK001,Oxford Circus
+UK002,Cambridge Circus
+UK003,St Giles's Circus
+UK004,Angel
+UK005,Monument 
+UK006,Tank Crossing N
+UK007,Britannia Junction
+UK008,Whetstone
+UK009,Tally Ho Corner
+UK010,Temple Fortune
+UK011,Finchley Road
+UK012,Oakdene Park
+UK013,Ganwick Corner
+UK014,Totteridge
+UK015,Green Lanes
+UK016,Highgate Close
+UK017,Friern Barnet
+UK018,Chewton Mendip
+UK019,Simpson Cross
+UK020,Keeston Bridge
+UK021,Hendon
+UK022,Brixton Water Lane
+UK023,Magham Down
+UK024,St Mary's Lane
+UK025,Mere Junction
+UK026,Cook's House Corner
+UK027,Ludgate Circus
+UK028,Earwig Corner
+UK029,Kennel Corner
+UK030,Dalston Junction
+UK031,Baker's Arms
+UK032,The Royal Standard Junction
+UK033,Fordingbridge
+UK034,Park Wall Junction
+UK035,London Colney
+UK036,Cemetary Junction
+UK037,Edgware
+UK038,Shenley
+UK039,Stratton on the Fosse
+UK040,Rickford's Hill
+UK041,Bedfont Lane
+UK042,Hooley Junction
+UK043,Yarbridge Cross
+UK044,St Denys Railway 
+UK045,The Rocket
+UK046,Marton Interchange
+UK047,Denton Island
+UK048,Crowwood Roundabout
+UK049,Biggleswade North  Potton
+UK050,Smockington Hollow
+UK051,Partick Cross
+UK052,Bell Bar
+UK053,Mason's Corner
+UK054,Cade Street
+UK055,Preston Circus
+UK056,Southend Road
+UK057,Airport Junction
+UK058,Gilespie Crossroads
+UK059,Wakefield Road
+UK060,Centre Interchange
+UK061,Houstoun Interchange
+UK062,Bruce Street
+UK063,Bushey
+UK064,Leyton High Rd Leyton 
+UK065,Burnham Health Centre
+UK066,Summers Road
+UK067,Ancient Briton Junction
+UK068,Cross Hands
+UK069,Ladywood Circus
+UK070,British Legion Hall
+UK071,Llandeloy
+UK072,Penycwm
+UK073,Puncheston
+UK074,Tufton
+UK075,New Inn
+UK076,Tavernput Cross
+UK077,Portfield Gate
+UK078,Kilns Cross
+UK079,Police Square
+UK080,Gatton point
+UK081,Crown Hill Roundabout
+UK082,Nightingale Lane
+UK083,Llangorwen
+UK084,Maes Treylow
+UK085,Oxygen Corner
+UK086,Brook Street and Road roundabout
+UK087,Cavendish Avenue
+UK088,Nantmor Turn
+UK089,Cousland Interchange
+UK090,Kiln Corner
+UK091,Rawdon Crossroads
+UK092,Steynton
+UK093,St John Street Goswell Road
+UK094,Wallington Green
+UK095,Yealmpton
+UK096,Modbury Cross
+UK097,Palm Cross
+UK098,Langworthy's Barn
+UK099,Heddeswell Cross
+UK100,Coleman's Corner
+UK101,Stumpy Post Cross
+UK102,Leigh Cross
+UK103,Sorley Green Cross
+UK104,Fallapit Turn
+UK105,Stanborough Gate
+UK106,Jurys Corner
+UK107,Snakes Lane East
+UK108,The Pyghtre
+UK109,The Green
+UK110,Tandys Close
+UK111,Sandridge
+UK112,Knightsbridge 
+UK113,Childs Corner
+UK114,Willow Springs
+UK115,Rowan Way
+UK116,Maple Way
+UK117,Townsend Close
+UK118,Low Park Corner
+UK119,Roman Road Market
+UK120,Stroud
+UK121,Uxbridge Square
+UK122,Fiveways
+UK123,Cobridge Lights
+UK124,Oakham Crossing
+UK125,Three Tuns
+UK126,Carf
+UK127,The Crown
+UK128,Falfield
+UK129,Burnt Oak Corner
+UK130,Alveston
+UK131,Kingswood
+UK132,Tytherington
+UK133,Hasguard Cross
+UK134,Rosepool
+UK135,Ratford Bridge
+UK136,Albert Town
+UK137,Dreenhill
+UK138,Armadale
+UK139,Cross Street
+UK140,Stockbridge
+UK141,Trelawney Estate
+UK142,Bell Corner
+UK143,Ramsey Road Level Crossing
+UK144,Water Lane
+UK145,Durham Hill
+UK146,Birstall Smithies
+UK147,Kedlestone Avenue
+UK148,Letterston
+UK149,Castle Morris
+UK150,Priskilly Cross
+UK151,Mountain Water
+UK152,Lady's Cross
+UK153,Folly
+UK154,Hayscastle Cross
+UK155,Croes-goch
+UK156,Whitland Level Crossing
+UK157,Cameron Close
+UK158,Pelcomb Cross
+UK159,Henhurst Cross
+UK160,Pwll-trap
+UK161,St. Clears
+UK162,Johnstown
+UK163,Adam Avenue
+UK164,Lyric Road
+UK165,Manningford Bruce
+UK166,Landford
+UK167,Manningford
+UK168,Dunsley Corner
+UK169,Dumfries
+UK170,University Square
+UK171,Moore Street
+UK172,Manor Green
+UK173,Sawyers Close
+UK174,Granville Street
+UK175,Poyston Cross
+UK176,Skardu Road
+UK177,Park Gate
+UK178,Gabalfa
+UK179,Latrigg Road
+UK180,Kintbury
+UK181,Bankside
+UK182,Mulberry Corner
+UK183,Wilsons Corner
+UK184,River Chelt Junction
+UK185,West Entrance
+UK186,Walford Mill Medical Centre
+UK187,Roscoe's Roundabout
+UK188,Brampton Road Warwick Gardens
+UK189,Tank Crossing P
+UK190,Stone Cross
+UK191,Market Square
+UK192,Musbury Cross
+UK193,Maidenhayne Cross
+UK194,Tank Crossing F
+UK195,Pangbourne
+UK196,Gamberlake Cross
+UK197,Kiln Road
+UK198,Chevening Cross
+UK199,Green Farm Crossroads
+UK200,Holy Corner
+UK201,Woodstock Cross
+UK202,Thorpe Lane Level Crossing
+UK203,Strathcarron Junction
+UK204,Melvaig
+UK205,Gogerddan Crossroads
+UK206,CHILDWALL PARK AVENUE STAND PARK AVENUE
+UK207,Badachro
+UK208,Redpoint
+UK209,Park Square
+UK210,Strathcarron Level Crossing
+UK211,Barrack Corner
+UK212,Chiddingstone Causeway
+UK213,Redstone Cross
+UK214,Cherry Vale
+UK215,Haringey
+UK216,Portman Street Selfridges
+UK217,Sidcup Police 
+UK218,Sun Street
+UK219,Belfield Road
+UK220,Riley Green
+UK221,Burngate
+UK222,Teignmouth
+UK223,Badsey Pike
+UK224,Pulpit Corner
+UK225,St. Mary's Square
+UK226,Inckield Close
+UK227,Shotatton Crossroads
+UK228,SPEKE HALL ROAD HILLFOOT AVE
+UK229,Bearsden Cross
+UK230,Blunts Corner
+UK231,CHILDWALL VALLEY RD CHELWOOD AVE
+UK232,Old Road
+UK233,Boshill Cross
+UK234,Forest Corner
+UK235,Whitford
+UK236,Bonnington Toll
+UK237,Tedder Road
+UK238,Tabor's Corner
+UK239,Herons Wood
+UK240,Oakington Village Stores & Post Office
+UK241,Drift Bridge
+UK242,Seaton Tower
+UK243,Four Cross Elms
+UK244,Corporation Street
+UK245,Brede
+UK246,CHURCH RD
+UK247,Walton West
+UK248,Brochies Corner
+UK249,St. Dunstan's
+UK250,Delemere Drive
+UK251,Creighton Avenue
+UK252,Doctor's Corner
+UK253,Kaimes Crossroads
+UK254,Houghton
+UK255,Richmondshire
+UK256,Manor Square
+UK257,Possil Cross
+UK258,Abbey Road
+UK259,Sketty Cross
+UK260,Millerston
+UK261,Trinity
+UK262,Pooley Green Level Crossing
+UK263,Selborne
+UK264,Bleangate
+UK265,Traveller's Rest
+UK266,The Buttercross
+UK267,Abbotskerswell Cross
+UK268,Two Mile Oak Cross
+UK269,Parsonage Cross
+UK270,Redworth
+UK271,Bamber Bridge Level Crossing
+UK272,Larbert Cross
+UK273,Plean
+UK274,Templeton
+UK275,Narberth
+UK276,Pentregalar
+UK277,Crymych
+UK278,Ferry House Terminal
+UK279,Red Roses
+UK280,Leedstown
+UK281,Llangeler
+UK282,Pont Ceri
+UK283,Scott's Bridge
+UK284,Newton Arlosh
+UK285,Four Lanes End
+UK286,Raydon
+UK287,West Herrington
+UK288,Lochore
+UK289,Hill End
+UK290,Cockermouth
+UK291,Westonzoyland
+UK292,Brent Knoll
+UK293,Porlock
+UK294,Stokeinteignhead
+UK295,Middlezoy
+UK296,Othery
+UK297,Pack Lane Roundabout
+UK298,Merrion Cross
+UK299,Angle
+UK300,Monkton
+UK301,Maiden Wells
+UK302,St Twynnells
+UK303,Manchester Road Hoyle Ing
+UK304,Long Load
+UK305,Barton St. David
+UK306,Compton Martin
+UK307,Windermere Ferry
+UK308,Aberfeldy
+UK309,Trefeglwys
+UK310,Hazelden Cross
+UK311,Trafalgar Junction
+UK312,Scleddau
+UK313,Tycoch Square
+UK314,Shootash
+UK315,Thames Ave
+UK316,Porlock Weir
+UK317,Dearing Close
+UK318,Aller
+UK319,Prebends Archway
+UK320,Iford
+UK321,Leadburn Junction
+UK322,Aspen Close
+UK323,Lockwood Bar
+UK324,Sheen Gate
+UK325,Fountain Crossroads
+UK326,Ladderstile Gate
+UK327,Combsland Cross
+UK328,Bampton
+UK329,Shillingford
+UK330,Waterrow
+UK331,West Street
+UK332,Stacksteads
+UK333,Ferry Road
+UK334,Leckwith
+UK335,Stuart Street
+UK336,Lighthouse Cross
+UK337,Culverhouse Cross
+UK338,Park Street North
+UK339,Endmoor
+UK340,Shorne Crossroads
+UK341,Ham Gate
+UK342,Trewellard Arms
+UK343,Brendon Close
+UK344,Chartwell Road
+UK345,Farmdown Road
+UK346,Roborough Gate
+UK347,Exford
+UK348,Greenhill Cross
+UK349,Bow
+UK350,Barnstaple Cross
+UK351,Beaford
+UK352,Post Box
+UK353,Spencer Street
+UK354,Cresselly
+UK355,Carew
+UK356,North Newton
+UK357,Sandy Park
+UK358,Spilmersford Bridge
+UK359,The Oval
+UK360,footpath
+UK361,Wood Green 
+UK362,Redvers Road
+UK363,Wood Green Crown Court
+UK364,Stratford High Street 
+UK365,Bow Interchange
+UK366,Green Man Roundabout Bush Rd
+UK367,Bronwydd Arms Bronwydd Turns
+UK368,Four Lane Ends
+UK369,Queen's Close
+UK370,Southern Way
+UK371,Durston
+UK372,West Lyng
+UK373,Burrowbridge
+UK374,Gypsy Lane
+UK375,Hockerill Cross
+UK376,Collins Cross
+UK377,Neyland
+UK378,Holcroft Road
+UK379,Tavernspite
+UK380,Washfield Cross
+UK381,Tolgullow
+UK382,Fourways
+UK383,The Fairway
+UK384,Pedestrian Crossing
+UK385,Tregaron
+UK386,Sussex Place
+UK387,Rowde
+UK388,Norgett's Lane
+UK389,Barrachnie Cross
+UK390,Dava
+UK391,Clare Street
+UK392,Fernheath Way
+UK393,Jacobstowe
+UK394,Quarry Hill
+UK395,Three Legged Cross
+UK396,Woodlands Corner
+UK397,Windmill Lane; windmill lane
+UK398,Park Road
+UK399,Pimply Gate
+UK400,Lynmouth
+UK401,Exebridge
+UK402,Maidenhead Cross
+UK403,Tonedale
+UK404,Halberton
+UK405,Piel
+UK406,Bowling
+UK407,Graham Road
+UK408,Abridge
+UK409,Achahoish
+UK410,Farme Cross
+UK411,Gyme Corner
+UK412,Fynonau Cross
+UK413,West Port
+UK414,Laurbel Surgery
+UK415,Hunters Lodge junction
+UK416,Monaughty
+UK417,Rectory Road
+UK418,Croix de Bois
+UK419,Camden Town Greenland Road
+UK420,Morington Cresent
+UK421,Kippen
+UK422,Birchy Cross
+UK423,St Mark's Gate
+UK424,Tottenham Swan
+UK425,Horn Cross
+UK426,Portobello Road
+UK427,Flint Cross
+UK428,Pronger's Corner
+UK429,Well Cross
+UK430,Kitterford Cross
+UK431,The Rotyngs
+UK432,Court Ord Road
+UK433,'formerly Phoenix Street'
+UK434,Shrewsbridge Crossing
+UK435,North Town
+UK436,Newlands Road
+UK437,St Aubyns Mead
+UK438,Sheep Walk
+UK439,Woburn Place
+UK440,Ridge View
+UK441,Rushlake Close
+UK442,Middleton Rise
+UK443,Arlington Crescent
+UK444,The Byway
+UK445,Ingham Drive
+UK446,Monk Close
+UK447,Woodview Close
+UK448,Crawley Road
+UK449,Rusper Road
+UK450,Beatty Avenue
+UK451,Chavington Close
+UK452,Framfield Close
+UK453,Corbet Close
+UK454,Hackbridge Corner
+UK455,Orchard Avenue
+UK456,Creech Heathfield
+UK457,Ruishton
+UK458,Beehive Corner
+UK459,Llansteffan
+UK460,Wilmount Street
+UK461,Oliver Road
+UK462,Swains Lane Lodge Gate
+UK463,Holway
+UK464,Bryngwyn
+UK465,Talbot Inn
+UK466,Silk Mills Bridge
+UK467,North Curry
+UK468,Old Fire 
+UK469,Lower Henlade
+UK470,Meidrim
+UK471,Four Firs Cross
+UK472,Brick Cross
+UK473,Withen Cross
+UK474,Knowle
+UK475,Depot Corner
+UK476,Wrantage
+UK477,Hatch Beauchamp
+UK478,Brixington Lane
+UK479,Laurel Bark Cross
+UK480,Wareham Cross
+UK481,Challacombe Cross
+UK482,Parkside
+UK483,Groes
+UK484,East Combe
+UK485,Townsend Crossroads
+UK486,Stoney Cross
+UK487,Summerway Cross
+UK488,Corfe
+UK489,Woolavington
+UK490,Chard
+UK491,Mill End
+UK492,Marldon Cross
+UK493,Combefishacre Cross
+UK494,Vicarage Gardens
+UK495,Longcombe Cross
+UK496,South Brent
+UK497,Winchester Park
+UK498,New Moor Cross
+UK499,Ilminster
+UK500,Puckington
+UK501,Westport
+UK502,Ferrol Road
+UK503,Parham Road
+UK504,Redgate
+UK505,Littlebrook Close
+UK506,Cheriton Cross
+UK507,Cadbury Cross
+UK508,Broadclyst
+UK509,Bradninch
+UK510,Culmstock
+UK511,Nottingham Place Gate
+UK512,Boncath
+UK513,Baltonsborough
+UK514,Curry Mallet
+UK515,South Petherton
+UK516,Cross Inn
+UK517,Airey Neave Court
+UK518,Woodrush Way
+UK519,Sandyford Toll
+UK520,Selden's Corner
+UK521,Middle path
+UK522,St Andrews Rise
+UK523,Rhiconich
+UK524,Crewkerne Turning
+UK525,Six Lanes End
+UK526,Ramsdell Crossroads
+UK527,Folly Bank Crossing
+UK528,Park Hill Cross
+UK529,Dumville Drive
+UK530,Withy Trees
+UK531,Pleasant Hill
+UK532,Pilleth
+UK533,Sandy Cross
+UK534,Maynard's Green
+UK535,Hillswick
+UK536,Dunmow
+UK537,Milltown
+UK538,Triangle
+UK539,Williamston Interchange
+UK540,Whitburn Crossroads
+UK541,Milburn
+UK542,Warwick Bridge
+UK543,Milk Bottle
+UK544,Marldon Road
+UK545,Bishop Norton
+UK546,Wellesley Road
+UK547,Greenwich
+UK548,Claypole
+UK549,Dingwall No. 2 Crossing
+UK550,Hipperholme Crossroads
+UK551,Tummel Bridge
+UK552,Sandringham Gardens
+UK553,Duchy Drive
+UK554,Occombe Valley Road
+UK555,Maidenway Road
+UK556,Laura Grove
+UK557,Shorton Valley Road
+UK558,Witton WC
+UK559,Nortel
+UK560,Brixham Road
+UK561,Windy Corner
+UK562,Oslin Walk
+UK563,George Lambton Avenue
+UK564,Nimbus Way
+UK565,Lowes Bridge
+UK566,Willow Drive
+UK567,Playfairs Corner
+UK568,Coxhill Cross
+UK569,Briar Grove
+UK570,Maybush Road
+UK571,Tir-y-Dail
+UK572,Llanedi Junction
+UK573,Grain Crossing
+UK574,Frederick Avenue
+UK575,Stephenson Terrace
+UK576,Shorton Road
+UK577,Elmsleigh Road
+UK578,Hayes Road
+UK579,Market Place
+UK580,St Nicholas Close
+UK581,Glover Road
+UK582,Dunning
+UK583,Langridge Cross
+UK584,Brockhills Cross
+UK585,Harbertonford Bridge
+UK586,Smannell
+UK587,Richmond Cresent
+UK588,Hornsey Street
+UK589,Broom Road
+UK590,Victoria Street
+UK591,Fleet Street
+UK592,Kiln Cross
+UK593,Cossick Cross
+UK594,Central Square
+UK595,Maud Foster Level Crossing
+UK596,Belle Isle Drive
+UK597,Cobbler's Corner
+UK598,Fidler's Cross
+UK599,Jane's Brae Interchange
+UK600,Maesbrook
+UK601,Bronwydd Dwylan
+UK602,Chelworth Crossroads
+UK603,North Warren
+UK604,Heath View
+UK605,Peter's Finger
+UK606,Chigwell Road
+UK607,Glanypwll Crossing
+UK608,Medmenham
+UK609,Napier Road
+UK610,Woodside Road
+UK611,Raby Crescent
+UK612,Penarthur Cross
+UK613,Woodland Rise
+UK614,Bigny Cross
+UK615,Barrhead Services
+UK616,Low Gates
+UK617,Auton Croft
+UK618,High Cross
+UK619,Cullompton
+UK620,Cowslip Drive
+UK621,Cefn Cross
+UK622,Farthing Cross
+UK623,Hampton Mews
+UK624,Grand Hotel
+UK625,St Paul's Church
+UK626,St Margarets Crescent
+UK627,Harraton Cross
+UK628,Aunemouth Cross
+UK629,St Mabyn
+UK630,Braemore Junction
+UK631,Odsal Top
+UK632,Week
+UK633,Chestnut Grove
+UK634,Bishops Lydeard
+UK635,Kurnool Mortar Cross Roads
+UK636,Ledmore Junction
+UK637,The Drive
+UK638,Feolin
+UK639,Lagg
+UK640,Maxwell Road
+UK641,West Quantoxhead
+UK642,Kendricks Cross
+UK643,Hesketh Street
+UK644,Port Charlotte
+UK645,St Chad's Road
+UK646,Doughty Wylie
+UK647,Logwood
+UK648,Torbay Leisure Centre
+UK649,Dartmouth Road
+UK650,Creswell Court
+UK651,Preston Shelter
+UK652,Torquay Road
+UK653,Manor Corner
+UK654,Oldway Mansion
+UK655,Christ Church
+UK656,Victoria Park
+UK657,Follaton Gate
+UK658,Tilworth Cross
+UK659,Willow Flats
+UK660,Ballagawne crossing
+UK661,Preston's Crossing
+UK662,Slough Bus 
+UK663,WOOLTON STREET
+UK664,West Buckland
+UK665,Kirriemuir
+UK666,Livermead House Hotel
+UK667,Torbay Road
+UK668,Abberton
+UK669,Manners Road
+UK670,Guildtown
+UK671,New Alyth
+UK672,Westmuir
+UK673,Brechin
+UK674,Cairn O' Mount Pass
+UK675,Westminster Close
+UK676,Winner Street
+UK677,Paignton Zoo
+UK678,Harbourne Avenue
+UK679,Rowbrook Close
+UK680,Lynmouth Avenue
+UK681,Lancaster Drive
+UK682,Middle Farm
+UK683,Blackbrook Avenue
+UK684,Hookhills Road
+UK685,Davies Avenue
+UK686,Grange View
+UK687,Looe Junction
+UK688,Heath Poult Cross
+UK689,Couple Cross
+UK690,Bay Hill Cross
+UK691,Staplegrove
+UK692,Pyrland
+UK693,Watchet
+UK694,Brushford
+UK695,Washford
+UK696,Old Cleeve
+UK697,New Brighton
+UK698,Red Post Cross
+UK699,Willand
+UK700,Stogumber
+UK701,Carhampton
+UK702,Corscombe Cross
+UK703,Torinturk
+UK704,Kilberry
+UK705,Cannings Cross
+UK706,Wellands Lane
+UK707,White Cross
+UK708,Wheddon Cross
+UK709,Norton Fitzwarren
+UK710,Kilve
+UK711,Stubbing Drive
+UK712,Venniford Cross
+UK713,Milverton
+UK714,Sherford
+UK715,Comeytrowe
+UK716,Galmington
+UK717,Ash Priors
+UK718,St Thomas's Square
+UK719,Deadman's Cross
+UK720,Long Cross
+UK721,Gerston Cross
+UK722,Greenland Mills AHB
+UK723,Queen's Avenue
+UK724,Westfield Avenue
+UK725,Gnaton Cross
+UK726,Carehouse Cross
+UK727,North Park Corner
+UK728,California Cross
+UK729,Marridge Cross
+UK730,Fowlscombe Cross
+UK731,The Gallops
+UK732,Barnwood Close
+UK733,Benwick
+UK734,Ashbrittle
+UK735,Tarragon Way
+UK736,Brocas Road
+UK737,Ebbw Vale East
+UK738,Pulleys Corner
+UK739,Highampton
+UK740,Burleigh Lane End
+UK741,Trefonen Avenue
+UK742,Hunters Hill
+UK743,Cromer Close
+UK744,Radnors End
+UK745,Royal Hotel
+UK746,Churston Golf Club
+UK747,Padocks End
+UK748,Llanelli East Level Crossing
+UK749,Friars Rookery
+UK750,Jura Gardens
+UK751,Puddavine
+UK752,Short Cross
+UK753,Forces Cross
+UK754,Mere Crossroad
+UK755,Taunton
+UK756,Southcott Cross
+UK757,Warstone Lane
+UK758,Chapel Field
+UK759,Ffair Rhos
+UK760,Davey's Cross
+UK761,Flamsted Avenue
+UK762,Elm Tree Close
+UK763,North Wembley 
+UK764,Pawlett
+UK765,Sign of the Owl
+UK766,Higher Brownston Cross
+UK767,Fernhill Cross
+UK768,Coombe Cross
+UK769,Slade Cross
+UK770,Higher Warcombe Cross
+UK771,Halterworth
+UK772,Two Post Cross
+UK773,Cotford St Luke
+UK774,Stags Head Cross
+UK775,Speed Camera
+UK776,Wadeford
+UK777,Great Western Hotel
+UK778,Efford Corner
+UK779,Firs Cross
+UK780,Bugford Lane End
+UK781,Modbury
+UK782,Goutsford Gate
+UK783,Hollowcombe Cross
+UK784,Dunstone Cross
+UK785,Carhampton Cross
+UK786,Deans Corner
+UK787,St. Clears Level Crossing
+UK788,Pullman Close
+UK789,Edington
+UK790,Catcott
+UK791,Wrigwell Cross
+UK792,Blackstone Cross
+UK793,Huntspill
+UK794,Paradise Place
+UK795,Wadenhoe
+UK796,Haywain Shops
+UK797,Hawkins Avenue
+UK798,The Pond
+UK799,Collaton Cross
+UK800,Rochford Corner
+UK801,Easton
+UK802,Chilton Trinity
+UK803,Hambridge
+UK804,Torridge Avenue
+UK805,Outside No. 76
+UK806,Fowey Avenue
+UK807,Fivehead
+UK808,wp028
+UK809,Dunsberry
+UK810,Coil Cross
+UK811,Caffyns Cross
+UK812,Horse Guards Parade
+UK813,South West Avenue
+UK814,Rumwell
+UK815,Cavendish Road
+UK816,Imperial Hotel
+UK817,Jones Corner
+UK818,The Badgers
+UK819,East Huntspill
+UK820,Fairlight Drive
+UK821,Crafthole
+UK822,The Cross
+UK823,Antony
+UK824,Buckingham Drive
+UK825,Wilton
+UK826,Ellerton Cross
+UK827,Polvean Cross
+UK828,Marchwood Avenue
+UK829,Tower Close
+UK830,Rose Hill
+UK831,Walford Cross
+UK832,Goosnargh Methodist Church
+UK833,Crawshay Drive
+UK834,Courtenay Drive top
+UK835,Killington Cross
+UK836,Heiton
+UK837,North Dronley
+UK838,Shebbear
+UK839,Wadebridge
+UK840,Surley Row
+UK841,Malborough Green
+UK842,Bagton Lane End
+UK843,Sutton Cross
+UK844,Liss Forest
+UK845,Lincoln Walk
+UK846,Earlswood
+UK847,Cashes Green
+UK848,Langdon Cross
+UK849,Gresford Close
+UK850,Castle Arch
+UK851,Kansas Place
+UK852,Savannah Place
+UK853,Woodside View
+UK854,Petton
+UK855,Tank Crossing 
+UK856,Red Lion
+UK857,Ellwood Cross
+UK858,Branscombe Cross
+UK859,Armadale Cross
+UK860,Hendon Grange
+UK861,Stone Bridge Corner
+UK862,Gratham
+UK863,Darlington Back Lane
+UK864,Tottenham Lane
+UK865,Thorns Cross
+UK866,Bede Academy
+UK867,Merrivale
+UK868,Bolton Cross
+UK869,Queen's Head Junction
+UK870,Red Post
+UK871,Tiptree
+UK872,Bearley Cross
+UK873,Scorton Green
+UK874,Basset's Cross
+UK875,Elcroft Gardens
+UK876,Budleigh Salterton
+UK877,Llanfair Cilgedin
+UK878,Fountain Street
+UK879,Tircoed
+UK880,Penrhyn Crossing
+UK881,Wardour Street
+UK882,Hawick
+UK883,Coop Car Park
+UK884,Pond Green
+UK885,Whympston Cross
+UK886,Clanacombe Cross
+UK887,Chapel Cross
+UK888,Grove Corner
+UK889,Landkey
+UK890,Newport
+UK891,Loddiswell Butts
+UK892,Blackdown Cross
+UK893,Cellan
+UK894,Llanfair Clydogau
+UK895,Happaway Road
+UK896,Cave Gate
+UK897,Inchnadamph
+UK898,Lytchett Minster Close
+UK899,Wingate Circle
+UK900,Williams Circle
+UK901,St Cuthbert's Road
+UK902,Carlyon Road
+UK903,East Port
+UK904,Fenton Street
+UK905,Ripley Scouts
+UK906,Polbathic
+UK907,Durham Road
+UK908,Ledburn
+UK909,Shildon
+UK910,Railway Road
+UK911,Post Office
+UK912,Kingsland High Street
+UK913,Kerse Cross
+UK914,Sandy Lane End
+UK915,Wigford Cross
+UK916,Duckett's Crossing
+UK917,Seckington Cross
+UK918,Calverley Newsagents
+UK919,Duffus
+UK920,Arlington Way
+UK921,Laxford Bridge
+UK922,Dingwall Middle Crossing
+UK923,Hobtoe Road
+UK924,Dudley
+UK925,Aylesbeare
+UK926,Barbican
+UK927,New Oxford Street
+UK928,Powell Road
+UK929,Woodside Park
+UK930,Elmers End 
+UK931,Essex Road
+UK932,Southgate Road Ardleigh Road
+UK933,Newington Green Road
+UK934,Balls Pond Rd
+UK935,Barham Park
+UK936,Hoxton Baring Street
+UK937,Balls Pond Road
+UK938,Culford Road
+UK939,Wood Lane
+UK940,Cirencester Street
+UK941,Clephane Road
+UK942,Royal College St College Arms
+UK943,Downham Road Southgate Road
+UK944,Englefield Rd Artful Dodger
+UK945,Essex Road
+UK946,Five Elms Road
+UK947,Freegrove Road
+UK948,Green Park Constitution Hill
+UK949,St Paul's Road
+UK950,Highbury Corner
+UK951,Highbury Grove
+UK952,St Paul's Road
+UK953,Highfield Road Oakdene Drive
+UK954,Hurst View Road
+UK955,Kings Crescent Estate K U
+UK956,Islington Green
+UK957,Lyndhurst Avenue Uxbridge Rd
+UK958,Lancaster Place
+UK959,Clapton Girls' Academy
+UK960,Essex Road Marquess Road
+UK961,Mildmay Park
+UK962,Old Park Lane Hard Rock Cafe
+UK963,Northchurch Road
+UK964,North Circular Rd Brentfield
+UK965,Packington Street
+UK966,London Wall
+UK967,Ockendon Road
+UK968,Portland Street
+UK969,Rigg Approach
+UK970,Royal Academy Old Bond Street
+UK971,Southall Park
+UK972,Southgate Road
+UK973,Tanner Street
+UK974,Stoke Newington Church Street
+UK975,Newington Green Road
+UK976,St Paul's Road
+UK977,St Paul's Way
+UK978,Sweeps Lane
+UK979,Waldens Road
+UK980,Turners Road
+UK981,Waterloo Bridge
+UK982,Parliament Square
+UK983,Northchurch Rd Southgate Rd
+UK984,Balls Pond Road
+UK985,Canal Walk
+UK986,Acton Horn Lane
+UK987,Plender Street Pratt Street
+UK988,Plender Street Pratt Street
+UK989,Murray Grove
+UK990,Riversdale Road Clissold Park
+UK991,Danson Road Crook Log
+UK992,Manor House 
+UK993,Craighouse
+UK994,Swimbridge
+UK995,Hammer Avenue
+UK996,Butely Road
+UK997,Wigmore Close
+UK998,Saltford Crescent
+UK999,Blackheath Corner
+DE000,Kaserne Nordtor
+DE001,U-Bahnhof Lindauer Allee
+DE002,Lindauer Allee Residenzstraﬂe
+DE003,Galenusstraﬂe
+DE004,Trabener Steg
+DE005,Berliner Straﬂe
+DE006,Zehntwerderweg
+DE007,Waidmannsluster Damm Oraniendamm
+DE008,Seeweg
+DE009,Konstanzer Straﬂe
+DE010,Roseneck
+DE011,Roseneck Teplitzer Straﬂe
+DE012,Breitscheidplatz
+DE013,Goerdelerdamm
+DE014,Hasensprung
+DE015,Paulsenstraﬂe
+DE016,U Friedrich-Wilhelm-Platz
+DE017,Masurenallee Zentraler Omnibusbahnhof
+DE018,S Zehlendorf
+DE019,Carmerplatz
+DE020,Rathaus Steglitz
+DE021,Friedenauer Br¸cke
+DE022,Marchstraﬂe
+DE023,Siriusstraﬂe
+DE024,An der M¸hle
+DE025,Poststadion
+DE026,U Jakob-Kaiser-Platz
+DE027,Wannseebr¸cke
+DE028,Otisstraﬂe
+DE029,S Schˆneberg
+DE030,Storkower Straﬂe Paul-Junius-Straﬂe
+DE031,Hahneberg
+DE032,Ausbau
+DE033,Schˆnower Park
+DE034,Lindenstraﬂe Waltersdorfer Straﬂe
+DE035,Alsterweg
+DE036,Obentrautstraﬂe U Mehringdamm
+DE037,Sp‰thstraﬂe Ligusterweg
+DE038,Krematorium Ruhleben
+DE039,G¸terbahnhof Ruhleben
+DE040,Teltower Straﬂe
+DE041,U Blissestraﬂe
+DE042,U Osloer Straﬂe
+DE043,Bl¸cherstraﬂe
+DE044,S Messe Nord ICC
+DE045,Heinrichplatz
+DE046,Malchow Dorfstraﬂe
+DE047,Zepernick
+DE048,Waldowallee
+DE049,Karolinenhˆhe
+DE050,Conradstraﬂe
+DE051,Dirschelweg
+DE052,Buckower Ring
+DE053,Blumberger Damm Elisabethstraﬂe
+DE054,Rudolf-Leonhard-Straﬂe
+DE055,Rebhuhnweg
+DE056,Hinter der M¸hle
+DE057,Jan-Petersen-Straﬂe
+DE058,Paul-Dessau-Straﬂe
+DE059,S-Bahnhof Raoul-Wallenberg-Straﬂe
+DE060,Schwarzburger Straﬂe
+DE061,Nossener Straﬂe
+DE062,Lichterfelder Weg
+DE063,Seglerweg
+DE064,Zum Heckeshorn
+DE065,Blankenburger Weg
+DE066,Darﬂer Straﬂe Roelckestraﬂe
+DE067,Berliner Allee Indira-Gandhi-Straﬂe
+DE068,Falkenberger Chaussee Prendener Straﬂe
+DE069,Kiefheider Weg
+DE070,Senftenberger Ring Ost
+DE071,Seestraﬂe Beusselstraﬂe
+DE072,Seestraﬂe
+DE073,Siedlereck
+DE074,Wasserwerk Beelitzhof
+DE075,Fercher Straﬂe
+DE076,Rahnsdorf Waldsch‰nke
+DE077,M¸ggelseeperle
+DE078,Alt-M¸ggelheim
+DE079,Tschaikowskistraﬂe
+DE080,Moritzstraﬂe
+DE081,Straﬂe 603
+DE082,Fachinger Str.
+DE083,Havelblick
+DE084,Klinikum Neukˆlln
+DE085,Rabensteiner Straﬂe
+DE086,Berliner Mauerweg
+DE087,Berlin
+DE088,Tor D
+DE089,Mˆnchsheimer Straﬂe
+DE090,Friedrich-Wolf-Straﬂe
+DE091,Salvador-Allende-Br¸cke
+DE092,Glienike
+DE093,Altglienicke Kirche
+DE094,Altglienicker Br¸cke
+DE095,Bahnhof Wittenau
+DE096,Ottomar-Geschke-Straﬂe
+DE097,Chris-Gueffroy-Allee
+DE098,Glienicker Straﬂe
+DE099,U Rudow
+DE100,Drakestraﬂe Ringstraﬂe
+DE101,Schˆnefeld Waltersdorfer Chaussee
+DE102,Wupperstraﬂe
+DE103,Vier Eichen
+DE104,Cecilienstraﬂe Blumberger Damm
+DE105,Schlosspark Biesdorf
+DE106,Rapsweg Unfallkrankenhaus
+DE107,Lichtenrade
+DE108,Mehringbr¸cke
+DE109,Tor C
+DE110,Mˆrderberg
+DE111,B¸rgerablage
+DE112,U Strausberger Platz
+DE113,U Haselhorst
+DE114,Prerower Platz
+DE115,Scholzplatz
+DE116,Calauer Straﬂe
+DE117,Schildhorn
+DE118,Johannisthal Kirche
+DE119,Sommerbad Neukˆlln
+DE120,Mollwitzstraﬂe
+DE121,Freudstraﬂe Goldk‰ferweg
+DE122,Freudstraﬂe
+DE123,Hochhausweg
+DE124,Schˆneiche bei Berlin
+DE125,S Hohenzollerndamm
+DE126,Brunsb¸tteler Damm Nennhauser Damm
+DE127,Waldstraﬂe Stadtgrenze
+DE128,Julius-Leber-Kaserne
+DE129,S Pl‰nterwald
+DE130,Alt-Schmˆckwitz
+DE131,Vier Eichen
+DE132,Sankt-Elisabeth-Kirchhof
+DE133,Chausseehaus
+DE134,Markgrafendamm
+DE135,Am Rund
+DE136,Aroser Allee Gotthardstraﬂe
+DE137,Blumberger Damm Mehrower Allee
+DE138,S-Bahnhof Hermsdorf
+DE139,Am Volkspark
+DE140,Gosen
+DE141,Waldhornstraﬂe
+DE142,M¸ggelheim Dorf
+DE143,Weltlingerbr¸cke
+DE144,Am Festplatz
+DE145,S Westkreuz
+DE146,Heiligenseestraﬂe Henningsdorfer Straﬂe
+DE147,Geygerstraﬂe
+DE148,Alt-Heiligensee
+DE149,Memhardstraﬂe
+DE150,Mollstraﬂe Prenzlauer Allee
+DE151,Alexanderplatz
+DE152,Alexanderplatz Memhardstraﬂe
+DE153,Staatsoper
+DE154,Mollstraﬂe Otto-Braun-Straﬂe
+DE155,Brandenburger Tor
+DE156,Berliner Rathaus
+DE157,U Alexanderplatz
+DE158,Stedingerweg
+DE159,Kniprodestraﬂe Storkower Straﬂe
+DE160,L¸tzowplatz
+DE161,Schillstraﬂe
+DE162,Bayreuther Straﬂe
+DE163,Zoologischer Garten
+DE164,Unter den Linden Friedrichstraﬂe
+DE165,Nordische Botschaften Adenauer Stiftung
+DE166,U Mohrenstraﬂe
+DE167,Lahnstraﬂe U-Bahnhof Neukˆlln
+DE168,Kienappelweg
+DE169,Fanningerstraﬂe
+DE170,Mellenseestraﬂe
+DE171,A Haupeingang Charit Èplatz
+DE172,U Blaschkoallee
+DE173,Buschkrug
+DE174,Ludwigshˆheweg
+DE175,S Kˆllnische Heide
+DE176,Pablo-Neruda-Straﬂe
+DE177,Kˆllnischer Platz
+DE178,Glienicker Weg Nipkowstraﬂe
+DE179,Boschweg
+DE180,Neuer Weg
+DE181,Gosen M¸ggelpark
+DE182,S Potsdamer Platz Voﬂstraﬂe
+DE183,U Dahlem Dorf
+DE184,Lˆhleinstraﬂe
+DE185,Hittorfstraﬂe
+DE186,Ehrenbergstraﬂe
+DE187,S Lichterfelde West
+DE188,Berkaer Straﬂe Breite Straﬂe
+DE189,Scabellstraﬂe
+DE190,Giesensdorfer Straﬂe
+DE191,S Lichterfelde Ost
+DE192,S Gr¸nau
+DE193,Hasselwerderstraﬂe
+DE194,Wegedornstraﬂe Semmelweisstraﬂe
+DE195,Kˆpenicker Straﬂe Schule
+DE196,Magnusstraﬂe
+DE197,Ostpreuﬂendamm Osdorfer Straﬂe
+DE198,S Karlshorst
+DE199,S Mexikoplatz
+DE200,Hellersdorfer Straﬂe G¸lzower Straﬂe
+DE201,U Kaulsdorf-Nord
+DE202,Neue Grottkauer Straﬂe
+DE203,Jungfernstieg
+DE204,Boschpoler Straﬂe
+DE205,Marienstraﬂe
+DE206,Ostpreuﬂendamm Kˆnigsberger Straﬂe
+DE207,Goerzallee Drakestraﬂe
+DE208,Goertzallee Drakestraﬂe
+DE209,Krankenhaus Hedwigshˆhe
+DE210,Stuthirtenweg
+DE211,Reihersteg
+DE212,Bitscher Straﬂe
+DE213,U-Bahnhof Alt-Tegel
+DE214,Jugendherberge
+DE215,Neukˆllnische Allee
+DE216,Dammweg Sonnenallee
+DE217,S Sonnenallee
+DE218,Friedenfelser Straﬂe
+DE219,Friedhof Marienfelde
+DE220,Nahmitzer Damm Marienfelder Allee
+DE221,Rennsteig
+DE222,Skarbinastraﬂe
+DE223,Nahariyastraﬂe
+DE224,Ahrensdorfer Straﬂe
+DE225,Bauﬂnernweg
+DE226,Stadtrandsiedlung
+DE227,Tirschenreuther Ring
+DE228,Weskammstraﬂe
+DE229,S Lichterfelde S¸d
+DE230,Celsiusstraﬂe S¸d
+DE231,S Schichauweg
+DE232,U Wilmersdorfer Straﬂe
+DE233,Fuldastraﬂe
+DE234,Irmastraﬂe
+DE235,Hadubrandstraﬂe
+DE236,Elsenallee
+DE237,U Elsterwerdaer Platz
+DE238,Anemonenstraﬂe
+DE239,Salvador-Allende-Straﬂe Wendenschloﬂstraﬂe
+DE240,Bellevuepark
+DE241,Mahlsdorfer Straﬂe Gehsener Straﬂe
+DE242,Semliner Straﬂe
+DE243,Feuersteiner Straﬂe
+DE244,Deutschhofer Allee
+DE245,Walter-Felsenstein-Straﬂe
+DE246,Bitterfelder Straﬂe Wolfener Straﬂe
+DE247,Boxberger Straﬂe Wolfener Straﬂe
+DE248,Landsberger Allee Blumberger Damm
+DE249,Lea-Grundig-Straﬂe
+DE250,Kˆthener Straﬂe
+DE251,Demminer Straﬂe
+DE252,Waldfriedhof M¸ggelheim
+DE253,Gosener Kanal
+DE254,W¸rttembergallee
+DE255,Sewanstraﬂe Dolgenseestraﬂe
+DE256,Tannh‰userstraﬂe
+DE257,Ilsestraﬂe
+DE258,Sangeallee
+DE259,Hentigstraﬂe
+DE260,Marksburgstraﬂe
+DE261,Rheinsteinstraﬂe
+DE262,Treskowallee Hochschule f¸r Technik und Wirtschaft
+DE263,Gregoroviusweg
+DE264,Gr¸ne Aue
+DE265,Donizettistraﬂe Strauﬂstraﬂe
+DE266,Pfalzgrafenweg
+DE267,Strauﬂstraﬂe
+DE268,Hultschiner Damm Seestraﬂe
+DE269,Kiefholzstraﬂe Baumschulenstraﬂe
+DE270,Frauenlobstraﬂe
+DE271,Sonnenallee Baumschulenstraﬂe
+DE272,Baumschulenstraﬂe Kˆnigsheideweg
+DE273,Riesestraﬂe
+DE274,Britzer Damm Gradestraﬂe
+DE275,Betriebshof Britz
+DE276,Gradestraﬂe Tempelhofer Weg
+DE277,Oberspreestraﬂe Bundeswehr
+DE278,U Krumme Lanke
+DE279,Bergaustraﬂe
+DE280,Eichbuschallee Kˆpenicker Landstraﬂe
+DE281,Kˆpenicker Landstraﬂe Dammweg
+DE282,Rathaus Treptow
+DE283,Alt-Treptow
+DE284,Sowjetisches Ehrenmal
+DE285,M¸ggelheimer Straﬂe Wendenschloﬂstraﬂe
+DE286,Schloﬂplatz Kˆpenick
+DE287,S Spindlersfeld
+DE288,Friedlander Straﬂe
+DE289,S Schˆneweide
+DE290,Schnellerstraﬂe Karlshorster Straﬂe
+DE291,Marggraffbr¸cke
+DE292,Baumschulenstraﬂe Kˆpenicker Landstraﬂe
+DE293,Kˆpenicker Landstraﬂe Sportplatz
+DE294,Neukladower Allee
+DE295,Hortwinkeler Weg
+DE296,Wrˆhm‰nnerpark
+DE297,Eichenstraﬂe Puschkinallee
+DE298,Elsenstraﬂe S Treptower Park
+DE299,Hertzbergplatz
+DE300,Spenerstraﬂe
+DE301,Gˆschenplatz S-Bahnhof Wittenau
+DE302,Gartenstraﬂe
+DE303,Kirchstraﬂe Alt-Moabit
+DE304,Dominicusstraﬂe Hauptstraﬂe
+DE305,Heiligenseestraﬂe Ruppiner Chaussee
+DE306,Einfahrt West
+DE307,Seydlitzstraﬂe
+DE308,Dietzgenstraﬂe Mittelstraﬂe
+DE309,U Hallesches Tor
+DE310,Im Spektefeld Schulzentrum
+DE311,Waldstraﬂe
+DE312,U Nollendorfplatz
+DE313,Ziegrastraﬂe
+DE314,Mareschstraﬂe
+DE315,Cunostraﬂe
+DE316,Mergentheimer Straﬂe
+DE317,Wedellstraﬂe
+DE318,Haberstraﬂe
+DE319,Schulenburgpark
+DE320,Michael-Bohnen-Ring
+DE321,Peter-Anders-Straﬂe
+DE322,Gosen Eichwalder Straﬂe
+DE323,Am Oberhafen
+DE324,Potsdam
+DE325,Rudower Chaussee Wegedornstraﬂe
+DE326,Walther-Nernst-Straﬂe
+DE327,Tischlerzeile
+DE328,Veitstraﬂe
+DE329,Namslaustraﬂe
+DE330,Dianastraﬂe
+DE331,Jˆrsstraﬂe
+DE332,Schulzendorfer Straﬂe Ruppiner Chaussee
+DE333,U-Bahnhof Paracelsus-Bad Aroser Allee
+DE334,Holl‰nderstraﬂe Aroser Allee
+DE335,Grindelwaldweg
+DE336,Techowpromenade
+DE337,Alt-Wittenau Roedernallee
+DE338,Schmitzweg
+DE339,Weinbrennerweg
+DE340,Roedernallee Flottenstraﬂe
+DE341,Herkomerstraﬂe
+DE342,Rethelstraﬂe
+DE343,Klingerstraﬂe
+DE344,U Hermannplatz Sonnenallee
+DE345,Zehlendorf Eiche
+DE346,Winfriedstraﬂe
+DE347,Kleinaustraﬂe
+DE348,Von-Laue-Straﬂe
+DE349,Birger-Forell-Platz
+DE350,Kˆnigin-Luise-Platz Botanischer Garten
+DE351,Unter den Eichen Drakestraﬂe
+DE352,Askanierring
+DE353,Allee der Kosmonauten Poelchaustraﬂe
+DE354,Gutenbergstraﬂe
+DE355,S Kˆpenick
+DE356,Lemkestraﬂe Lenbach Straﬂe
+DE357,L¸becker Straﬂe
+DE358,WSP
+DE359,Zentralfriedhof
+DE360,Leonorenstraﬂe Siemensstraﬂe
+DE361,Tempelherrenstraﬂe
+DE362,Urbanstraﬂe Baerwaldstraﬂe
+DE363,Kˆrtestraﬂe
+DE364,Graefestraﬂe
+DE365,U Hermannplatz Urbanstraﬂe
+DE366,Jahnstraﬂe
+DE367,Sonnenallee Pannierstraﬂe
+DE368,Geibelstraﬂe
+DE369,Foxweg
+DE370,Alte Fˆrsterei
+DE371,U-Bahnhof Scharnweberstraﬂe
+DE372,Bentschener Weg
+DE373,Bahnhofstraﬂe Lindenstraﬂe
+DE374,Gr¸ner Weg Gutschmidtstraﬂe
+DE375,Spindlersfelder Straﬂe
+DE376,Alt-Marzahn
+DE377,S-Bahnhof Ahrensfelde
+DE378,Gehrenseestraﬂe
+DE379,Bennostraﬂe
+DE380,Gottfriedstraﬂe
+DE381,S-Bahnhof Gehrenseestraﬂe
+DE382,Welsestraﬂe
+DE383,Alt-Moabit Rathenower Straﬂe
+DE384,U-Bahnhof Franz-Neumann-Platz
+DE385,Kirchstraﬂe
+DE386,Berliner Allee Rennbahnstraﬂe
+DE387,Alt-Friedrichsfelde Rhinstraﬂe
+DE388,U Boddinstraﬂe
+DE389,Barbarossastraﬂe
+DE390,Pfarrer-Heﬂ-Weg
+DE391,Joseph-Joachim-Platz
+DE392,Barther Straﬂe
+DE393,Sch¸tzallee Riemeisterstraﬂe
+DE394,S Westend
+DE395,Auguste-Viktoria-Klinikum S¸d
+DE396,Temmeweg
+DE397,U-Bahnhof Holzhauser Straﬂe
+DE398,Haynauer Straﬂe
+DE399,U Rathaus Reinickendorf
+DE400,Falkenseer Platz
+DE401,Zur Haveld¸ne
+DE402,Hermannstraﬂe
+DE403,Prenzlauer Allee Ostseestraﬂe
+DE404,Ringslebenstraﬂe Mollnerweg
+DE405,K¸nnekeweg
+DE406,Modersohnstraﬂe
+DE407,Neukˆllner Straﬂe Zwickauer Damm
+DE408,Windenweg
+DE409,Glockenblumenweg
+DE410,Petunienweg
+DE411,Massantebr¸cke
+DE412,Stubenrauchstraﬂe Springbornstraﬂe
+DE413,Sterndamm Schule
+DE414,Sterndamm Stubenrauchstraﬂe
+DE415,Eichenauer Weg
+DE416,Neuhofer Straﬂe
+DE417,Waltersdorfer Chaussee Ostburger Weg
+DE418,Narkauer Weg
+DE419,Lieselotte-Berger-Straﬂe
+DE420,Hiltrud-Dudek-Weg
+DE421,Stadtgrenze Rudow
+DE422,S Yorckstraﬂe (Groﬂgˆrschenstraﬂe)
+DE423,Im Bauernbusch Kˆpenicker Straﬂe
+DE424,Frauenschuhweg
+DE425,Hagenplatz
+DE426,Regattastraﬂe Schule
+DE427,M‰ckeritzwiesen
+DE428,Bahnhof Reinickendorfer Straﬂe Fennstraﬂe
+DE429,Hermsdorfer Damm Martin-Luther-Straﬂe
+DE430,Einfahrt Hannoversche Straﬂe
+DE431,S Schˆneweide Sterndamm
+DE432,Carmerplatz
+DE433,Schˆnefelder Straﬂe Neuhofer Straﬂe
+DE434,Lieselotte-Berger-Platz
+DE435,Friederike-Nadig-Straﬂe
+DE436,Kapaunenstraﬂe
+DE437,Leghornweg
+DE438,Lakenfelderweg
+DE439,Prierosser Straﬂe
+DE440,Ostburger Weg Lettberger Straﬂe
+DE441,Herzblattweg
+DE442,Gontermannstraﬂe
+DE443,Warschauer Straﬂe
+DE444,Wernsdorf
+DE445,Heinrich-Bˆll-Straﬂe
+DE446,Erkner
+DE447,Wilhelmstraﬂe Kochstraﬂe
+DE448,Waldeckpark
+DE449,Alexandrinenstraﬂe
+DE450,Lindenstraﬂe Oranienstraﬂe
+DE451,Hermannstraﬂe Mariendorfer Weg
+DE452,Britzer Straﬂe
+DE453,Dokumentationszentrum NS-Zwangsarbeit
+DE454,Bruno-B¸rgel-Weg
+DE455,S Treptower Park
+DE456,Ritterfelddamm Potsdamer Chaussee
+DE457,Berlin Pankow
+DE458,Helene-Weigel-Platz
+DE459,Hauptbahnhof
+DE460,Tegelort
+DE461,Pietschkerstraﬂe
+DE462,Tr¸tzschlerstraﬂe
+DE463,Lindhorstweg
+DE464,Sterndamm Kˆnigsheideweg
+DE465,Ludwigsfelder Straﬂe Sachtlebenstraﬂe
+DE466,U Hermannplatz
+DE467,Venusstraﬂe
+DE468,Korkedamm
+DE469,Ortolfstraﬂe Venusstraﬂe
+DE470,Engelhardstraﬂe Pilotenstraﬂe
+DE471,Wegedornstraﬂe
+DE472,Dankmarsteig
+DE473,Baluschekweg
+DE474,U Turmstraﬂe
+DE475,Intercamping
+DE476,Lemkestraﬂe Greifswalder Straﬂe
+DE477,Knollstraﬂe
+DE478,Zoppoter Straﬂe
+DE479,Schuchardtweg
+DE480,Rathaus Wannsee
+DE481,U Walther-Schreiber-Platz
+DE482,Zitadelle Spandau
+DE483,U-Bahnhof Platz der Luftbr¸cke
+DE484,Schˆnefeld
+DE485,Schulzendorfer Straﬂe Parchwitzer Straﬂe
+DE486,Wehrmathen
+DE487,Waltersdorfer Straﬂe Parchwitzer Straﬂe
+DE488,Eichbuschplatz
+DE489,Buchsbaumweg
+DE490,Will-Meisel-Weg
+DE491,Maxim-Gorki-Straﬂe
+DE492,Amalienstraﬂe
+DE493,Grabbeallee Pastor-Niemˆller-Platz
+DE494,Karwendelstraﬂe
+DE495,Holbeinstraﬂe
+DE496,Hochbergweg
+DE497,U Ernst-Reuter-Platz
+DE498,Lindenstraﬂe
+DE499,Paul-Lˆbe-Haus Reichstag
+DE500,Rudower Straﬂe Schnellerstraﬂe
+DE501,Haus des Rundfunks
+DE502,Machandelweg
+DE503,Alt-Moabit Gotzkowskystraﬂe
+DE504,Glienicker Lake
+DE505,Schloss Glienicke
+DE506,Am Heidefriedhof
+DE507,Lerchenweg
+DE508,Drakestraﬂe Gardesch¸tzenweg
+DE509,S-Bahnhof Tegel
+DE510,Glienicker Br¸cke
+DE511,Buchholzweg
+DE512,Spektebr¸cke
+DE513,Zossener Br¸cke
+DE514,S Eichwalde
+DE515,Siedlung Waltersdorf
+DE516,Karl-Marx-Straﬂe
+DE517,Fontaneallee
+DE518,Schmˆckwitzwerder
+DE519,Magistratsweg Brunsb¸tteler Damm
+DE520,Am Hegewinkel
+DE521,Quitzowstraﬂe
+DE522,Halbauer Weg
+DE523,Titiseestraﬂe
+DE524,Park Inn
+DE525,Teutonenstraﬂe
+DE526,U Spittelmarkt
+DE527,BASt Z‰hlstelle Nikolassee
+DE528,Finnenhaus-Siedlung
+DE529,Waldallee
+DE530,Auﬂenweg
+DE531,Landschaftsfriedhof Gatow
+DE532,Abtstraﬂe
+DE533,Adlergestell Glienicker Weg
+DE534,Betonwerk
+DE535,B‰renlauchstraﬂe
+DE536,B¸chnerweg
+DE537,Eichwalde
+DE538,Freystadter Weg
+DE539,Friedenstraﬂe
+DE540,Havellandstraﬂe
+DE541,Radickestraﬂe Anna-Seghers-Straﬂe
+DE542,Radickestraﬂe Nipkowstraﬂe
+DE543,Rosenweg
+DE544,S Adlershof
+DE545,Schmˆckwitzer Straﬂe
+DE546,Schnellerstraﬂe Kˆllnische Straﬂe
+DE547,Vollkropfgraben
+DE548,Wassersportallee
+DE549,Mertensstraﬂe
+DE550,Brunsb¸tteler Damm Ruhlebener Straﬂe
+DE551,Kˆttgenstraﬂe
+DE552,Harriesstraﬂe
+DE553,Saatwinkler Damm Rohrdamm
+DE554,Ashdodstraﬂe
+DE555,Sachtlebenstraﬂe
+DE556,Wannseebadweg
+DE557,Kˆnigin-Luise-Straﬂe Clayallee
+DE558,Alt-Schˆnow
+DE559,Beeskowdamm
+DE560,Rathaus Weiﬂensee
+DE561,Rohrdammbr¸cke
+DE562,Bootsbauerstraﬂe
+DE563,Krachtstraﬂe
+DE564,Fafnerstraﬂe
+DE565,Eichwalde;Berlin
+DE566,Lichterfelder Ring Waldsassener Straﬂe
+DE567,S Anhalter Bahnhof
+DE568,Neuruppiner Straﬂe
+DE569,Trusethaler Straﬂe
+DE570,Alliiertenmuseum
+DE571,Finkenstraﬂe
+DE572,Berlinickeplatz
+DE573,U Wittenbergplatz
+DE574,Rathausstraﬂe Kaiserstraﬂe
+DE575,Corneliusbr¸cke
+DE576,Hasenhegerweg
+DE577,Neukˆlln
+DE578,Friedenstraﬂe Groﬂbeerenstraﬂe
+DE579,Dorfstraﬂe Lindenberger Straﬂe
+DE580,Wilhelm-von-Siemens-Straﬂe
+DE581,Rote-Kreuz-Straﬂe
+DE582,Am Gehrensee
+DE583,U Theodor-Heuss-Platz S¸d
+DE584,Alt Kladow
+DE585,Parnemannweg
+DE586,Weinmeisterweg
+DE587,Hermann-Hesse-Straﬂe Waldstraﬂe
+DE588,Bahnhofstraﬂe Seelenbinderstraﬂe
+DE589,Spandauer Straﬂe Marienkirche
+DE590,Bahnhof Pankow Granitzstraﬂe
+DE591,Erich-Weinert-Straﬂe
+DE592,S-Bahnhof Wollankstraﬂe Sternstraﬂe
+DE593,Otto-Franke-Straﬂe
+DE594,Krampnitzer Weg Selbitzer Straﬂe
+DE595,Lichtenberg Siegfriedstraﬂe
+DE596,Gernotstraﬂe
+DE597,U Mendelssohn-Bartholdy-Park
+DE598,Varian-Fry-Straﬂe
+DE599,Abgeordnetenhaus
+DE600,Potsdamer Platz
+DE601,Philharmonie S¸d
+DE602,Kulturforum
+DE603,Stromstraﬂe
+DE604,Marktplatz Adlershof
+DE605,Freiheit
+DE606,In den Kaveln
+DE607,Hahneberg
+DE608,Heinrichplatz
+DE609,Zepernick
+DE610,M¸ggelschlˆﬂchenweg
+DE611,Krankenhaus Kˆpenick Besuchereingang
+DE612,U Karl-Marx-Straﬂe
+DE613,B‰umerplan
+DE614,Karower Damm Georgenstraﬂe
+DE615,Potsdamer Br¸cke
+DE616,Hoeppnerstraﬂe
+DE617,Badener Ring
+DE618,Dudenstraﬂe Katzbachstraﬂe
+DE619,Friedrichshagener Straﬂe Kabelwerk
+DE620,H¸nefeldzeile
+DE621,Steglitzer Damm Halskestraﬂe
+DE622,East Side Gallery
+DE623,Am Anger
+DE624,Friedrich-G¸nther-Park
+DE625,Boschpoler Platz
+DE626,Hiroshimasteg
+DE627,Heliosstraﬂe
+DE628,H‰nflingsteig
+DE629,Kiebitzgrund
+DE630,Pekrunstraﬂe
+DE631,U Alt-Mariendorf
+DE632,U Oskar-Helene-Heim
+DE633,Am Bogen
+DE634,Siedlung Hakenfelde
+DE635,Johannisthaler Chaussee Fritz-Erler-Allee
+DE636,Krankenhaus Kˆpenick S¸dseite
+DE637,Kleinschewskystraﬂe
+DE638,Veltheimstraﬂe Schildower Straﬂe
+DE639,S Mahlsdorf
+DE640,Lindenhof
+DE641,Schmidt-Ott-Straﬂe
+DE642,Wilhelmsm¸hlenweg
+DE643,Oberbaumbr¸cke
+DE644,for osm Transport Karte
+DE645,Schildow Kirche
+DE646,Kirche Groﬂ Glienicke
+DE647,Bucher Chaussee Achillesstraﬂe
+DE648,Wildau
+DE649,S Pankow-Heinersdorf
+DE650,Wernsdorfer Straﬂe
+DE651,Invalidensiedlung
+DE652,Buschallee Hansastraﬂe
+DE653,U-Bahnhof Kurt-Schumacher-Platz
+DE654,Porschestraﬂe
+DE655,Zu den Krugwiesen
+DE656,U Schwartzkopffstraﬂe
+DE657,Room in Appartment for Rent - BITCOIN
+DE658,U Hˆnow
+DE659,Hugo-Heimann-Straﬂe
+DE660,Busseallee
+DE661,Invalidenpark
+DE662,Lehrter Straﬂe Invalidenstraﬂe
+DE663,Trinkwassernotbrunnen
+DE664,Hermsdorfer Damm Berliner Straﬂe
+DE665,Spechtstraﬂe
+DE666,Heinersdorf Kirche
+DE667,S Attilastraﬂe
+DE668,Waldsiedlung Groﬂ Glienicke
+DE669,U Naturkundemuseum
+DE670,Heidebergplan
+DE671,Wedding
+DE672,M‰rkische Zeile
+DE673,Tiefenseer Straﬂe
+DE674,Wilhelmsruher Damm
+DE675,Dietrichinger Weg
+DE676,Atrium
+DE677,Bernshausener Ring
+DE678,U-Bahnhof Wittenau
+DE679,Wilhelsruher Damm
+DE680,Scharnhorststraﬂe Habersaathstraﬂe
+DE681,Brunnenstraﬂe Invalidenstraﬂe
+DE682,U Rosenthaler Platz
+DE683,Flohrstraﬂe
+DE684,Hechelstraﬂe
+DE685,Uranusweg
+DE686,U-Bahnhof Afrikanische Straﬂe
+DE687,U Seestraﬂe
+DE688,Amandastraﬂe
+DE689,Gemeindefriedhof
+DE690,Gerichtstraﬂe
+DE691,Rathaus Wedding
+DE692,U Reinickendorfer Straﬂe Fennstraﬂe
+DE693,U Reinickendorfer Straﬂe
+DE694,U-Bahnhof Stadtmitte
+DE695,U Kochstraﬂe Checkpoint Charlie
+DE696,Wilhelmstraﬂe Franz-Kl¸hs-Straﬂe
+DE697,Bergmannstraﬂe
+DE698,Tempelhof
+DE699,U Alt-Tempelhof
+DE700,U Paradestraﬂe
+DE701,U Tempelhof Ringbahnstraﬂe
+DE702,Mariendorfer D. Eisenacher Straﬂe
+DE703,Rathaus Tempelhof
+DE704,Tempelhofer D. Ordensmeisterstraﬂe
+DE705,U-Bahnhof Kaiserin-Augusta-Straﬂe
+DE706,U Ullsteinstraﬂe
+DE707,U Westphalweg
+DE708,Herbststraﬂe
+DE709,Reginhardtstraﬂe B¸dnerring
+DE710,Stargardtstraﬂe
+DE711,Iranische Straﬂe
+DE712,Walderseestraﬂe
+DE713,U-Bahnhof Leopoldplatz
+DE714,Klemkestraﬂe
+DE715,Kosleckweg
+DE716,Didostraﬂe
+DE717,Nobelstraﬂe Bergiusstraﬂe
+DE718,Schmalenbachstraﬂe
+DE719,Neukˆllnische Allee Forsthausallee
+DE720,Lange Enden
+DE721,Grimmelshausenstraﬂe
+DE722,Grazer Platz
+DE723,Dessauer Straﬂe
+DE724,Cranachstraﬂe
+DE725,Alexanderstraﬂe
+DE726,S Ostbahnhof
+DE727,M¸ngersdorfer Straﬂe
+DE728,Rebenweg
+DE729,R¸bezahl
+DE730,Elsterplatz
+DE731,Wendenschloﬂ
+DE732,Baumschulenstraﬂe F‰hre
+DE733,Lohm¸hlenplatz
+DE734,Lohm¸hlenstraﬂe Heidelberger Straﬂe
+DE735,Freizeit- und Erholungszentrum
+DE736,Nixenstraﬂe
+DE737,Bellevuestraﬂe
+DE738,Puchanstraﬂe
+DE739,Bethaniendamm
+DE740,Eisenbahnstraﬂe
+DE741,Falckensteinstraﬂe
+DE742,Fischerinsel
+DE743,Heckmannufer
+DE744,Jerusalemer Straﬂe
+DE745,Kˆpenicker Straﬂe Adalbertstraﬂe
+DE746,Manteuffelstraﬂe Kˆpenicker Straﬂe
+DE747,Michaelkirchstraﬂe
+DE748,Taborstraﬂe
+DE749,U-Bahnhof Heinrich-Heine-Straﬂe
+DE750,U Schlesisches Tor
+DE751,U Stadtmitte Krausenstraﬂe
+DE752,U Stadtmitte Leipziger Straﬂe
+DE753,Alfred-Scholz-Platz
+DE754,Erkstraﬂe
+DE755,U Rathaus Neukˆlln
+DE756,Herrfurthstraﬂe
+DE757,Fontanestraﬂe Flughafenstraﬂe
+DE758,Woltersdorf
+DE759,Marzahner Straﬂe
+DE760,S Baumschulenweg
+DE761,Schˆnower Straﬂe
+DE762,S Wannsee
+DE763,Potsdamer Chaussee Lindenthaler Allee
+DE764,Niklassstraﬂe
+DE765,Forststraﬂe
+DE766,Gutzmannstraﬂe
+DE767,Behring-Krankenhaus
+DE768,Schrockstraﬂe
+DE769,Machnower Straﬂe Berlepschstraﬂe
+DE770,Machnower Straﬂe
+DE771,Scharfestraﬂe
+DE772,Sch¸tzallee
+DE773,Leichhardtstraﬂe
+DE774,Clayallee 229
+DE775,Nibelungenstraﬂe
+DE776,Isoldestraﬂe
+DE777,Ludwigsfelder Straﬂe
+DE778,Umspannwerk Malchow
+DE779,Persantestraﬂe
+DE780,Am Tegeler Flieﬂ
+DE781,Heerstraﬂe Wilhelmstraﬂe
+DE782,S-Bahnhof Buch
+DE783,U-Bahnhof Amrumer Straﬂe
+DE784,U-Bahnhof Birkenstraﬂe
+DE785,Perleberger Br¸cke
+DE786,Bildhauerweg
+DE787,Achardstraﬂe
+DE788,Adolfstraﬂe
+DE789,Alt-Kaulsdorf Chemnitzer Straﬂe
+DE790,Chemnitzer Straﬂe J‰gerstraﬂe
+DE791,Filehner Straﬂe
+DE792,Gerdastraﬂe
+DE793,Heerstraﬂe Chemnitzer Straﬂe
+DE794,Hoppendorfer Straﬂe
+DE795,Planitzstraﬂe
+DE796,Wernitzer Straﬂe
+DE797,Motzstraﬂe
+DE798,Zinsgutstraﬂe
+DE799,Halker Zeile
+DE800,Kettinger Straﬂe
+DE801,Mariendorfer Damm Buckower Chaussee
+DE802,S Buckower Chaussee
+DE803,Alt-Buckow
+DE804,Arnikaweg
+DE805,Buchfinkweg
+DE806,B¸hler Weg
+DE807,Delmer Steig
+DE808,Fritz-Erler-Allee Neukˆllner Straﬂe
+DE809,Grauwackeweg
+DE810,Johannisthaler Chaussee Rudower Straﬂe
+DE811,Lipschitzallee Rudower Straﬂe
+DE812,Pfarrer-Vogelsang-Weg
+DE813,Quarzweg Marienfelder Chaussee
+DE814,Rufacher Weg
+DE815,Steintr‰gerweg
+DE816,U Johannisthaler Chaussee
+DE817,Coloniaallee
+DE818,Nahmitzer Damm
+DE819,Nahmitzer Damm Motzener Straﬂe
+DE820,Jupiterstraﬂe
+DE821,U Grenzallee
+DE822,Willy-Brandt-Haus
+DE823,Budapester Straﬂe
+DE824,U-Bahnhof G¸ntzelstraﬂe
+DE825,Grenzweg Ost
+DE826,Maffeistraﬂe Ost
+DE827,W¸nsdorfer Straﬂe Blohmstraﬂe
+DE828,Lesser-Ury-Weg
+DE829,Behrenstraﬂe Wilhelmstraﬂe
+DE830,Leipziger Straﬂe Wilhelmstraﬂe
+DE831,Niemetzstraﬂe
+DE832,S Sonnenallee Saalestraﬂe
+DE833,Zeitzer Straﬂe
+DE834,Lichtenberger Straﬂe
+DE835,Lustgarten
+DE836,Nikolaiviertel
+DE837,Alexanderplatz Grunerstraﬂe
+DE838,Jannowitzbr¸cke
+DE839,Friedrichstraﬂe
+DE840,Charlottenstraﬂe
+DE841,Franz-Kl¸hs-Straﬂe
+DE842,J¸disches Museum
+DE843,Persiusstraﬂe
+DE844,S Ostkreuz
+DE845,Stralauer Allee
+DE846,Fischerh¸ttenstraﬂe
+DE847,F¸rstenstraﬂe
+DE848,Holl‰ndische M¸hle
+DE849,Mittelstraﬂe
+DE850,Rathaus Zehlendorf
+DE851,Thielallee Dahlemer Weg
+DE852,An den Achterhˆfen
+DE853,Britzer Damm Mohriner Allee
+DE854,Britzer Garten
+DE855,Buckower Damm Gutschmidtstraﬂe
+DE856,Dachdeckerweg
+DE857,Fulhamer Allee
+DE858,Germaniapromenade
+DE859,Mollnerweg
+DE860,Schlosserweg
+DE861,Stadtgrenze
+DE862,Wussowstraﬂe
+DE863,Zimmererweg
+DE864,Glogauer Straﬂe
+DE865,Lausitzer Platz
+DE866,Mariannenplatz
+DE867,Ohlauer Straﬂe
+DE868,Segitzdamm
+DE869,U Gˆrlitzer Bahnhof
+DE870,U Moritzplatz
+DE871,Waldemarstraﬂe Adalbertstraﬂe
+DE872,Waldemarstraﬂe Manteuffelstraﬂe
+DE873,Wrangelstraﬂe
+DE874,Hohenstaufenplatz
+DE875,Karl-Marx-Platz
+DE876,Kottbusser Br¸cke
+DE877,Mengerzeile
+DE878,Planetenstraﬂe
+DE879,Prinzenstraﬂe Ritterstraﬂe
+DE880,Reuterstraﬂe
+DE881,U Hermannplatz Karl-Marx-Straﬂe
+DE882,U Kottbusser Tor
+DE883,U Schˆnleinstraﬂe
+DE884,Weichselstraﬂe
+DE885,Buckower Damm Ringslebenstraﬂe
+DE886,Drˆpkeweg
+DE887,Groﬂziethen Rudolf-Breitscheid-Straﬂe
+DE888,Hˆrsingsteig
+DE889,Landreiterweg
+DE890,Emser Straﬂe
+DE891,U Leinestraﬂe
+DE892,Buschkrugallee Parchimer Allee
+DE893,Flurweg Seidelbastweg
+DE894,Franz-Kˆrner-Straﬂe
+DE895,Fuchsienweg
+DE896,Goldlackweg
+DE897,Haarlemer Straﬂe
+DE898,Kolibriweg
+DE899,Onkel-Herse-Straﬂe
+DE900,Rotkehlchenweg
+DE901,Rotschwanzweg
+DE902,Rudower Straﬂe Gr¸ner Weg
+DE903,Storchenweg
+DE904,U Grenzallee Jahnstraﬂe
+DE905,Zadekstraﬂe
+DE906,Am Brandpfuhl
+DE907,Ankogelweg
+DE908,Gl‰rnischweg
+DE909,Goldenes Horn S¸d
+DE910,Hundsteinweg
+DE911,Im Rosengrund
+DE912,Neumarkplan
+DE913,Pilatusweg
+DE914,Rixdorfer Straﬂe Britzer Straﬂe
+DE915,Rotkopfweg
+DE916,Sandsteinweg
+DE917,Tauernallee S‰ntisstraﬂe
+DE918,Trabrennbahn
+DE919,Windrˆschenweg
+DE920,Mˆllendorffstraﬂe Storkower Straﬂe
+DE921,Gradestraﬂe 71
+DE922,Gradestraﬂe 91
+DE923,Columbiadamm Friesenstraﬂe
+DE924,Columbiadamm Platz der Luftbr¸cke
+DE925,Friedhˆfe Columbiadamm
+DE926,Golﬂener Straﬂe
+DE927,U Prinzenstraﬂe
+DE928,Fichtestraﬂe
+DE929,Hasenheide
+DE930,U S¸dstern
+DE931,Ahornallee
+DE932,Altes Wasserwerk
+DE933,Bruno-Wille-Straﬂe
+DE934,Josef-Nawrocki-Straﬂe
+DE935,Licht- und Luftbad M¸ggelsee
+DE936,M¸ggelseedamm Bˆlschestraﬂe
+DE937,M¸hlweg
+DE938,Strandbad M¸ggelsee
+DE939,Unter den Birken
+DE940,Westendsiedlung
+DE941,Wongrowitzer Steig
+DE942,Hirschgarten
+DE943,Wassermannstraﬂe
+DE944,Br¸ckenstraﬂe
+DE945,Alt-Mahlsdorf
+DE946,Bruchsaler Straﬂe
+DE947,B¸tower Straﬂe
+DE948,Eichenhofweg
+DE949,Erich-Baron-Weg
+DE950,Ledebourstraﬂe
+DE951,Rahnsdorfer Straﬂe
+DE952,Roseggerstraﬂe
+DE953,Wilhelminenhofstraﬂe Edisonstraﬂe
+DE954,Roederplatz
+DE955,U Frankfurter Tor
+DE956,Arnfriedstraﬂe
+DE957,Aurorafalterweg
+DE958,Dohlengrund
+DE959,Gleiwitzer Straﬂe
+DE960,Grabensprung
+DE961,Kˆpenicker Straﬂe Innovationspark
+DE962,Pirolstraﬂe
+DE963,Blumberger Damm Eisenacher Straﬂe
+DE964,Kienbergstraﬂe G‰rten der Welt
+DE965,M‰rkische Allee Wuhletalstraﬂe
+DE966,S Mehrower Allee
+DE967,Schleusinger Straﬂe
+DE968,Sella-Hasse-Straﬂe
+DE969,Littenstraﬂe
+DE970,Stralauer Platz
+DE971,Altentreptower Straﬂe
+DE972,Wuhletal
+DE973,Marktstraﬂe
+DE974,Giersstraﬂe
+DE975,Hauptstraﬂe Rhinstraﬂe
+DE976,Pasedagplatz
+DE977,S Springpfuhl
+DE978,U Tierpark
+DE979,Adersleber Weg
+DE980,Barnimplatz
+DE981,Betriebshof Marzahn
+DE982,Brodowiner Ring
+DE983,Landsberger Chaussee Zossener Straﬂe
+DE984,Platz der Vereinten Nationen
+DE985,Riesaer Straﬂe Louis-Lewin-Straﬂe
+DE986,Schorfheidestraﬂe
+DE987,Stendaler Straﬂe Quedlinburger Straﬂe
+DE988,Torstraﬂe U Oranienburger Tor
+DE989,U Hellersdorf
+DE990,U Rosa-Luxemburg-Platz
+DE991,Hohenschˆnhauser Straﬂe Weiﬂenseer Weg
+DE992,Konrad-Wolf-Straﬂe
+DE993,Albertinenstraﬂe
+DE994,Greifswalder Straﬂe Ostseestraﬂe
+DE995,Antwerpener Straﬂe
+DE996,Seestraﬂe Amrumer Straﬂe
+DE997,Virchow-Klinikum
+DE998,Betriebshof Indira-Gandhi-Straﬂe
+DE999,Drontheimer Straﬂe
+BE000,FlorÈe
+BE001,Charleroi
+BE002,Chaudfontaine
+BE003,LouveignÈ
+BE004,Antwerpen-Centrum
+BE005,Six Coins
+BE006,Carrefour Saint-Fiacre
+BE007,Barvaux-Condroz
+BE008,Failon
+BE009,Maffe
+BE010,Patrijsweg
+BE011,Gemmenich
+BE012,Walem
+BE013,Mechelbaan
+BE014,Eupen
+BE015,Antwerpen - Edegem
+BE016,Pumpstation
+BE017,Bildchen Grenze
+BE018,DePlanck
+BE019,Beutenaken
+BE020,Moelingen
+BE021,Vroenhoven
+BE022,Maastricht 
+BE023,Houtbroek
+BE024,Hoek 
+BE025,Veldzicht
+BE026,Witrijt
+BE027,Weelde Station
+BE028,Baarle-Nassau
+BE029,Wortel
+BE030,Schaluinen
+BE031,Baarle-Hertog
+BE032,Sint Annaplein
+BE033,Baarle-Hertog
+BE034,Ulicoten Meerleseweg
+BE035,Meerle
+BE036,Roosendael
+BE037,pidpa
+BE038,Nivelles
+BE039,Tubize
+BE040,Bassilly
+BE041,Enghien
+BE042,Petit Enghien
+BE043,Bierghes
+BE044,Saintes
+BE045,Quenast
+BE046,Hoves
+BE047,Marcq
+BE048,Waalse Kaai
+BE049,Velaines
+BE050,Popuelles
+BE051,Beaumont
+BE052,Ch‚telet
+BE053,Westland Shopping
+BE054,Remouchamps Maison Flohimont
+BE055,Banneux Route de Hautregard
+BE056,Jevoumont
+BE057,Oostende
+BE058,Vierhoek
+BE059,Lillois-WitterzÈe
+BE060,BrabanÁonne
+BE061,Silly
+BE062,Zaventem-Centrum
+BE063,RonquiËres
+BE064,Monstreux
+BE065,Lens
+BE066,Bauffe
+BE067,Konzen
+BE068,Itegem
+BE069,Hechtel-Hoef
+BE070,Veltem-Beisem
+BE071,Bevel
+BE072,Kasteelhof
+BE073,Lichtenbusch
+BE074,Steenhoven
+BE075,Klein-Willebroek
+BE076,Kˆpfchen Altes Zollamt
+BE077,Bildchen Zollamt
+BE078,Estinnes-au-Mont
+BE079,Fauroeulx
+BE080,Braibant
+BE081,Leignon
+BE082,Chapois
+BE083,Prayon
+BE084,Angreau
+BE085,Angre
+BE086,Baisieux
+BE087,QuiÈvrain
+BE088,Broek
+BE089,Wuustwezel
+BE090,Brecht
+BE091,Edegem
+BE092,Brugse ommeland
+BE093,Loyers
+BE094,Oudstrijderslei
+BE095,Glasbak
+BE096,Bosveldstraat
+BE097,Merbes-le-Ch‚teau
+BE098,Kabbeeksepoort
+BE099,Hofstade
+BE100,Clabecq
+BE101,Fontenoy
+BE102,Achterbroek
+BE103,…rezÈe
+BE104,Mont-Gauthier
+BE105,Aux Fontaines
+BE106,Wemperhardt
+BE107,Weelde Statie
+BE108,Velle
+BE109,Pulle
+BE110,Zeshoek
+BE111,Merksplas
+BE112,Moresnet
+BE113,Antwerpse Kempen
+BE114,Wavre
+BE115,Leerbeek
+BE116,Gooik
+BE117,Neerkammolen
+BE118,Veerboot
+BE119,Rond point la sortie d'auto route
+BE120,Kessel Station
+BE121,Konzen Bahnhof
+BE122,La Bascule
+BE123,Lastberg
+BE124,Oisquercq
+BE125,Boom
+BE126,Walhain
+BE127,Waarloos
+BE128,Noduwez
+BE129,PiÈtrain
+BE130,Jauchelette
+BE131,Tourinnes-Saint-Lambert
+BE132,Nil-Saint-Vincent-Saint-Martin
+BE133,Petit-Rúulx-Lez-Nivelles
+BE134,Wachtebeke
+BE135,Bertogne
+BE136,Croix Blanche
+BE137,Creu do Hourd
+BE138,Werbomont
+BE139,Place des Anciens Combattants
+BE140,Place des Volontaires de guerre
+BE141,Carrefour des Sept ¬nes
+BE142,Notre-Dame de Hal
+BE143,Lomprez
+BE144,Haut-Fays
+BE145,Houdremont
+BE146,Gedinne
+BE147,Gedinne-Station
+BE148,Nafraiture
+BE149,Orchimont
+BE150,Sugny
+BE151,Wellin
+BE152,Steenkerque
+BE153,Petit-Roeulx-Lez-Braine
+BE154,Graty
+BE155,Henripont
+BE156,HennuyËres
+BE157,Parking Grand-Place
+BE158,Grootloonstraat
+BE159,Place Henri Maus
+BE160,Place du Souvenir
+BE161,Blanc-Misseron 4 PavÈs
+BE162,Carrefour d'Omalius
+BE163,Sterckxstraat
+BE164,Luttre
+BE165,Tongeren
+BE166,Pont-‡-Celles
+BE167,Place ArsËne Soreil
+BE168,Stationsberg
+BE169,Liberchies
+BE170,Gougnies
+BE171,Gerpinnes
+BE172,Roux
+BE173,Gosselies
+BE174,Place Hector Minet
+BE175,Place Marguerite Yourcenar
+BE176,Ingang Recyclage
+BE177,Buzet
+BE178,Godarville
+BE179,Kelmis Zollamt T¸lje
+BE180,Kelmis Hattigweg
+BE181,Kelmis Friedhof
+BE182,Kelmis Bruch
+BE183,Vierwegen
+BE184,Corbion
+BE185,Chapelle-lez-Herlaimont
+BE186,Hamois
+BE187,Scy
+BE188,Porcheresse
+BE189,Jeneffe
+BE190,Aiseau
+BE191,VallÈe
+BE192,Farciennes
+BE193,Roselies
+BE194,Pont-de-Loup
+BE195,Westmalle
+BE196,Arquennes
+BE197,Feluy
+BE198,Waterwinningsstraat
+BE199,Oostmalle
+BE200,BarbenÁon
+BE201,Renlies
+BE202,Familleureux
+BE203,La Bifurcation
+BE204,Le Tordoir
+BE205,Konzen Breitestraﬂe
+BE206,Wippelgem
+BE207,Thoricourt
+BE208,Lombise
+BE209,Gondregnies
+BE210,Fouleng
+BE211,Hellebecq
+BE212,Cambron-Saint-Vincent
+BE213,Montignies-Lez-Lens
+BE214,Erbisúul
+BE215,Bois-d'Haine
+BE216,Fayt-lez-Manage
+BE217,DOORGANG
+BE218,Corion
+BE219,Lembeek
+BE220,Sint-Rochusstraat
+BE221,Kalmthout
+BE222,Bersillies-l'Abbaye
+BE223,Montignies-Saint-Christophe
+BE224,Hantes-WihÈries
+BE225,Carrefour Robert Altman
+BE226,Montignies-sur-Roc
+BE227,Herchies
+BE228,Kaekebeke
+BE229,Bogaertslaan
+BE230,Rouveroy
+BE231,Croix-Lez-Rouveroy
+BE232,Estinnes-au-Val
+BE233,La Hestre
+BE234,Kontich
+BE235,Cour-sur-Heure
+BE236,Ham-sur-Heure-Nalinnes
+BE237,Kehr
+BE238,Seneffe
+BE239,Vaux sous ChÈvremont
+BE240,Foret
+BE241,Stinval
+BE242,LouveignÈ Tilleul
+BE243,Scoville
+BE244,Naninne
+BE245,Sint Amands
+BE246,Elewijt
+BE247,Gent
+BE248,Petigny
+BE249,Ch‚telineau
+BE250,Pironchamps
+BE251,Villers-Poterie
+BE252,PiÈton
+BE253,Viesville
+BE254,Monceau-sur-Sambre
+BE255,Marchienne-au-Pont
+BE256,Jamioulx
+BE257,Mosselmarkt
+BE258,de Merode
+BE259,Amougies
+BE260,Parking des Borains
+BE261,Welchenhausen Ort
+BE262,Lompret
+BE263,Aublin
+BE264,Dailly
+BE265,Couvin
+BE266,Fays les Veneurs
+BE267,DÈpart de la promenade
+BE268,BarriËre du Sentier de líEurope
+BE269,Vellereille-le-Sec
+BE270,Sint-Kwintens-Lennik
+BE271,Robechies
+BE272,Oignies-en-ThiÈrache
+BE273,Alle
+BE274,Enghien - Edingen
+BE275,Recogne
+BE276,Haulchin
+BE277,Vellereille-les-Brayeux
+BE278,Anderlues
+BE279,Gierle
+BE280,Presles
+BE281,Aiseau-Presles
+BE282,Braine-le-Comte
+BE283,Brunehaut
+BE284,Celles
+BE285,Colfontaine
+BE286,Dour
+BE287,Erquelinnes
+BE288,Estaimpuis
+BE289,Estinnes
+BE290,Frameries
+BE291,Hensies
+BE292,Gesves
+BE293,Halle
+BE294,Grobbendonk
+BE295,Coghen
+BE296,Bens
+BE297,Xavier de Bue
+BE298,Guimard
+BE299,Roetgen
+BE300,Kelmis Hergenrather Weg
+BE301,Grenspaal 246
+BE302,Krekelbergplein
+BE303,Kerkplein
+BE304,Lebbeke
+BE305,Parksken
+BE306,Noordstraat
+BE307,P1 Adelberg
+BE308,NÈchin
+BE309,Leers-Nord
+BE310,La Glanerie
+BE311,Rumes
+BE312,Taintignies
+BE313,Estaimbourg
+BE314,Saint-LÈger
+BE315,Roisin
+BE316,Audregnies
+BE317,Fayt-le-Franc
+BE318,Erquennes
+BE319,Athis
+BE320,Joncret
+BE321,Acoz
+BE322,Harsin
+BE323,Waya
+BE324,WihÈries
+BE325,»louges
+BE326,Blaugies
+BE327,Sars-la-BruyËre
+BE328,Eugies
+BE329,Noirchain
+BE330,La Bouverie
+BE331,Bailleul
+BE332,…vregnies
+BE333,Bruyelle
+BE334,Calonne
+BE335,Maubray
+BE336,Howardries
+BE337,Rongy
+BE338,Lesdain
+BE339,Laplaigne
+BE340,Guignies
+BE341,Wez-Velvain
+BE342,Jollain-Merlin
+BE343,Hollain
+BE344,Leugnies
+BE345,Solre-Saint-GÈry
+BE346,Leval-Chaudeville
+BE347,Thirimont
+BE348,StrÈe
+BE349,Sivry
+BE350,Grandrieu
+BE351,Montbliart
+BE352,Sautin
+BE353,Rance
+BE354,Grand-Reng
+BE355,Solre-sur-Sambre
+BE356,Warquignies
+BE357,Wasmes
+BE358,P‚turages
+BE359,Marchipont
+BE360,Autreppe
+BE361,Honnelles
+BE362,Onnezies
+BE363,Peissant
+BE364,Loverval
+BE365,Ham-sur-Heure
+BE366,Goutroux
+BE367,Molenbaix
+BE368,Pottes
+BE369,Escanaffles
+BE370,Montrúul-sur-Haine
+BE371,Hainin
+BE372,Anserúul
+BE373,Orroir
+BE374,Mont-de-l'Enclus
+BE375,Erbaut
+BE376,Jurbise
+BE377,Masnuy-Saint-Jean
+BE378,Masnuy-Saint-Pierre
+BE379,Merbes-Sainte-Marie
+BE380,Fontaine-Valmont
+BE381,Bellecourt
+BE382,Manage
+BE383,Bouffioulx
+BE384,ThimÈon
+BE385,Couillet
+BE386,Dampremy
+BE387,Gilly
+BE388,Lodelinsart
+BE389,Marcinelle
+BE390,Mont-sur-Marchienne
+BE391,Ransart
+BE392,Rebecq
+BE393,Malle
+BE394,Vlimmeren
+BE395,Vosselaar
+BE396,Turnhout
+BE397,Deurne
+BE398,Wijnegem
+BE399,Lives-sur-Meuse
+BE400,Sint-Lenaarts
+BE401,Auby-sur-Semois
+BE402,Deinze
+BE403,Lammersdorf
+BE404,AllÈe des 3 Tilleuls
+BE405,Grand-Hallet
+BE406,Au carrefour du Gofe Bolly
+BE407,Ciplet
+BE408,Grand-Axhe
+BE409,Busch
+BE410,CafÈ de la Fonaine
+BE411,Wasmuel
+BE412,Kˆpfchen Augustinerweg
+BE413,Kelmis
+BE414,Place du Roseau Vert
+BE415,Hauset
+BE416,Hergenrath
+BE417,Grauwe steen
+BE418,Eynatten
+BE419,Theux
+BE420,Grass
+BE421,LabuissiËre
+BE422,Heldergem - Haaltert
+BE423,Spontin
+BE424,Flamincka Park
+BE425,Ch‚teau Nonet - Kasteel Nonet
+BE426,Achet
+BE427,MiÈcret
+BE428,De Borre
+BE429,den Abt
+BE430,Stupbach Ort
+BE431,Thuin CimetiËre
+BE432,Abdijpoort
+BE433,Art Sanctuary The Enchnated Garden
+BE434,Kˆpfchen Grenze
+BE435,Nettinne
+BE436,Berlaar
+BE437,Route du Condroz
+BE438,La Salle
+BE439,Quaregnon
+BE440,Barsy
+BE441,Kelmis SADAR
+BE442,Perwez
+BE443,Lanaken
+BE444,Appelmarkt
+BE445,Houtmarkt
+BE446,Sint-Niklaasplaats
+BE447,LouveignÈ Plein Vent
+BE448,Kettenis Eupen
+BE449,Herbesthal Br¸cke
+BE450,Eupen Gendarmerie
+BE451,Herbesthal
+BE452,Rathaus
+BE453,Luzery
+BE454,Rue de l'American Legion
+BE455,Cobru
+BE456,Rue de Beaumont
+BE457,Post
+BE458,Essen
+BE459,Berchem Shopping
+BE460,PlombiËres
+BE461,Vˆlkerich
+BE462,Koekoek - Aartselaar
+BE463,Notre-Dame de Louvignies
+BE464,…cole des FrËres - AcadÈmie de musique
+BE465,Nerenbroekstraat
+BE466,Rue de la Verrerie
+BE467,Muizen
+BE468,Mol - Achterbos
+BE469,Edith Cavelllaan
+BE470,Thulin
+BE471,Ottignies-Louvain-la-Neuve
+BE472,Nierscheider Heide
+BE473,Terloonstvoetweg
+BE474,Schaltin
+BE475,Banneux Mater DeÔ
+BE476,Banneux La Croix
+BE477,Ottignies-Louvain-la-Neuve
+BE478,Zoersel
+BE479,Berg ten Stene
+BE480,Varent
+BE481,Berendries
+BE482,Edelareberg
+BE483,Forest
+BE484,Kattenberg
+BE485,Leberg
+BE486,Molenberg
+BE487,Rekelberg
+BE488,Valkenberg
+BE489,Volkegemberg
+BE490,Volvenberg
+BE491,Averbode
+BE492,Reit
+BE493,Sint-Gertrudis-Pede
+BE494,Wechelderzande
+BE495,Tarchamps
+BE496,Pettenlaan
+BE497,M¸tzenich
+BE498,Kirchplatz
+BE499,Spixhe
+BE500,Mechelen
+BE501,Calvaire
+BE502,Roosdaal - Onze Lieve Vrouw Lombeek
+BE503,Basilix
+BE504,Havelange
+BE505,Mohiville
+BE506,PÈronnes-Lez-Antoing
+BE507,BlÈharies
+BE508,SurrÈ
+BE509,Meerhout
+BE510,Martelange
+BE511,Baasrode - Moerzeke
+BE512,FrontiËre
+BE513,Oudenaken
+BE514,Brasschaat
+BE515,Antoing
+BE516,Kurt
+BE517,Rue du Couvent
+BE518,Sint-Antonius Zoersel
+BE519,Halle-Zoersel
+BE520,Cascade d'hyon
+BE521,Elzestraat
+BE522,Rue du PerrÈon
+BE523,Tisselt
+BE524,Le tip top
+BE525,Duffel
+BE526,Arlon Place de l'Yser
+BE527,Parking N896 Harsin
+BE528,Sint Jozeflei
+BE529,Hachiville
+BE530,Carrefour de la Violette
+BE531,Gooreind
+BE532,Mara - Boerinnenbond
+BE533,Delacroix
+BE534,Avenue Ilya Prigogine
+BE535,gefusilleerdenkruis
+BE536,Wezel
+BE537,Romelaan
+BE538,Straatsburglaan
+BE539,Hof ter Rijen
+BE540,Kruispunt Stokt
+BE541,Oud Turnhout
+BE542,Grandmenil
+BE543,Lindenbos-Aartselaar
+BE544,Manhay
+BE545,Gaasbeek - Lennik
+BE546,Sint-Martens-Lennik
+BE547,Geel-Oost
+BE548,Jabbeke-West
+BE549,Zandvoorde
+BE550,Oostkamp
+BE551,Kessel
+BE552,Molen van Ichelgem
+BE553,Oosthoven
+BE554,Bel - Geel
+BE555,Aartselaar
+BE556,Minderhout-Hoogstraten
+BE557,Minderhoutdorp
+BE558,Brusselsepoortstraat
+BE559,Simonis
+BE560,CollËge SacrÈ-Cúur - Heilig Hartcollege
+BE561,Fruits - Fruit
+BE562,Voroux-lez-Liers CafÈ Plein Vent
+BE563,Wilrijk
+BE564,Belfius
+BE565,Losheim (Eifel) Grenze
+BE566,Maldegem Sint-Vincentiuskring
+BE567,Rijksweg
+BE568,Sleidinge Eeksken
+BE569,Schellebelle Kapel Bruinbeke
+BE570,Voetweg Alken¬∞
+BE571,Wiekevorst
+BE572,Beveren Tomberg
+BE573,Col du Rosier
+BE574,Rauw - Mol
+BE575,Vien
+BE576,Hombeek
+BE577,Amostrennes
+BE578,Heffen
+BE579,Gravenwezel
+BE580,Ciney
+BE581,AchÍne
+BE582,Montegnet
+BE583,Champion
+BE584,Mol Kerk
+BE585,Bornem
+BE586,Niel
+BE587,Godsheide
+BE588,Mol
+BE589,Sovet
+BE590,Kasterlee
+BE591,Andenne
+BE592,Hove
+BE593,Ohey
+BE594,Willebroek
+BE595,Dave
+BE596,Gestel-Meerhout
+BE597,Montignies-sur-Sambre
+BE598,Jumet
+BE599,Rue du Champ de Bataille
+BE600,Camp de Conoy
+BE601,Rogier
+BE602,Bergom
+BE603,Obaix
+BE604,Ingang Natuurreservaat Uilenbroek
+BE605,Berg Clouse
+BE606,Saint-GÈrard
+BE607,Paal N60
+BE608,Leman
+BE609,Mulderstraat
+BE610,Road block
+BE611,Neuville-en-Condroz Place des CËdres
+BE612,Verlaine Rue Halin 16
+BE613,Anixhe Rue d'Anixhe
+BE614,Ans Rue LÈon Dolhen
+BE615,Kelmis B.B.L.
+BE616,Jan Baptist Tassynsstraat
+BE617,Compogne
+BE618,Noville
+BE619,Leval-Trahegnies 4 Saisons
+BE620,Leval-Trahegnies Place Communale
+BE621,Resteigne …glise
+BE622,Binche Grand-Rue
+BE623,Rochefort
+BE624,Casteau
+BE625,Montgomery
+BE626,BNP Paribas Fortis Hillegem
+BE627,Botanique - Kruidtuin
+BE628,Parc Elisabeth - Elisabethpark
+BE629,Hoogbraak
+BE630,Enghien Gare Vicinale
+BE631,Sivry-Rance
+BE632,Nalinnes
+BE633,Pommier - Appelboom
+BE634,Parc …lisabeth - Elisabethpark
+BE635,Parking Tweewaters
+BE636,barr
+BE637,Baraque de Planches
+BE638,De Klijte
+BE639,Aardenburg Kalseide
+BE640,Stroobrugge
+BE641,De Vaart
+BE642,Buissonville
+BE643,Rue du Grand Orme
+BE644,Stabroek Moretuslei
+BE645,Halma
+BE646,Theux Saint-Roch
+BE647,Allerborn
+BE648,Troine
+BE649,Beauraing Point de Vue
+BE650,Henri Chapelle
+BE651,Villers-le-Peuplier Station Aral
+BE652,Antoine De Braekeleer
+BE653,Ponts des MartiniËres
+BE654,Ingang Kasteelstraat
+BE655,Berg Ten Houte
+BE656,Hansbekedorp
+BE657,Reserved Wheelchair Parking
+BE658,Bon Air - Goede Lucht
+BE659,Saint-Louis
+BE660,Banneux Garage Beco
+BE661,Theux Route de Jevoumont
+BE662,Theux BelvÈdËre
+BE663,Theux CimetiËre
+BE664,Banneux …glise
+BE665,Theux Mont
+BE666,Rue TraversiËre - Dwarsstraat
+BE667,Houwaert
+BE668,Steurs
+BE669,Limite - Grens
+BE670,Clays
+BE671,Bossuet
+BE672,Sept …toiles - Zeven Sterren
+BE673,Huit Heures - Acht Uren
+BE674,Wauters
+BE675,Waxweiler
+BE676,van Beethoven
+BE677,Ghislenghien
+BE678,Maricolles - Maricollen
+BE679,Riethuisen
+BE680,Condor
+BE681,Candries
+BE682,Thym - Tijm
+BE683,Hoogbosch
+BE684,Elbers
+BE685,Berchem Station
+BE686,Bois des Œles - Eilandenhout
+BE687,Chopin
+BE688,CimetiËres - Begraafplaatsen
+BE689,Ganshoren-Sport
+BE690,Het Veroost
+BE691,Lowet
+BE692,Nereus
+BE693,Neuberger
+BE694,La LouviËre Place MaugrÈtout
+BE695,Rue de Thiribut
+BE696,Rue du Bois des Loges
+BE697,Rue Saint-Lambert
+BE698,Rue Basse Campagne
+BE699,Naamsesteenweg
+BE700,Hertog Engelbertlaan
+BE701,Koning Leopold III-laan
+BE702,Dreefstraat
+BE703,Mathildegang
+BE704,Dekenstraat
+BE705,Windmolenveldstraat
+BE706,Tomveldstraat
+BE707,Schepenenstraat
+BE708,Gildenstraat
+BE709,Henri Regastraat
+BE710,Parkstraat
+BE711,Rapengang
+BE712,Dagobertstraat
+BE713,Bogaardenstraat
+BE714,Arnould Nobelstraat
+BE715,Quinten Metsysplein
+BE716,Burgemeestersstraat
+BE717,Frederik Lintsstraat
+BE718,Constantin Meunierstraat
+BE719,Maria Theresiastraat
+BE720,Andreas Vesaliusstraat
+BE721,Weldadigheidsstraat
+BE722,Paul Lebrunstraat
+BE723,De Bayostraat
+BE724,Emile Mathieustraat
+BE725,J.P. Verhaghenstraat
+BE726,Gerard Vander Lindenstraat
+BE727,Verkortingstraat
+BE728,Hendrik Consciencestraat
+BE729,Nensstraat
+BE730,Frans Vermeylenstraat
+BE731,Eugene Gilbertstraat
+BE732,Emile Van Arenberghstraat
+BE733,Albert Giraudstraat
+BE734,Maria Van Belstraat
+BE735,Elzasgang
+BE736,Stanislas De Rijcklaan
+BE737,Sint-Lambertusstraat
+BE738,Waversebaan
+BE739,Brusselsestraat
+BE740,Groenstraat
+BE741,Hertogstraat
+BE742,Kloosterlaan
+BE743,Paul van Ostaijenlaan
+BE744,Volmolenlaan
+BE745,Grasmushof
+BE746,Zwartzustersstraat
+BE747,Kapucijnenvoer
+BE748,Adolphe Bastinstraat
+BE749,Ten Hovelaan
+BE750,Remi Vandervaerenlaan
+BE751,Redingenhof
+BE752,Pater Damiaanplein
+BE753,Schapenstraat
+BE754,Redingenstraat
+BE755,IJzerenmolenstraat
+BE756,Hollestraat
+BE757,Groenveldstraat
+BE758,Steengroevenlaan
+BE759,Raalbeeklaan
+BE760,Filosofenlaan
+BE761,Lindelaan
+BE762,Prinses Lydialaan
+BE763,Boskantlaan
+BE764,Graaf de Grunnelaan
+BE765,Middelweg
+BE766,Jachtlaan
+BE767,Goudfazantenlaan
+BE768,Reeboklaan
+BE769,Frans Cnopslaan
+BE770,Huttelaan
+BE771,Prosperdreef
+BE772,Willem de Croylaan
+BE773,Kartuizersstraat
+BE774,Hoefijzerlaan
+BE775, Zand
+BE776,Korte Zilverstraat
+BE777,Groeninge
+BE778,Walstraat
+BE779,Quai de Willebroeck - Willebroekkaai
+BE780,Avenue du Parc Royal - Koninklijk Parklaan
+BE781,Place Royale - Koningsplein
+BE782,Rue Royale - Koningsstraat
+BE783,Rue de la Loi - Wetstraat
+BE784,Rue de la Presse - Drukpersstraat
+BE785,Place Saint-GÈry - Sint-Goriksplein
+BE786,Rue des Chartreux - Kartuizersstraat
+BE787,Rue de la Verdure - Loofstraat
+BE788,Naamsestraat
+BE789,Naamsepoort
+BE790,Tervuursevest
+BE791,Voerviaduct
+BE792,Erasme Ruelensvest
+BE793,Naamsevest
+BE794,Rennes-Singel
+BE795,Tervuursepoort
+BE796,Herestraat
+BE797,Duinberglaan
+BE798,Bronlaan
+BE799,Parkdallaan
+BE800,Verbindingslaan
+BE801,Leeuwerikenstraat
+BE802,Kriekenboslaan
+BE803,Withoflaan
+BE804,Pakenstraat
+BE805,Kerspelstraat
+BE806,Willem Van Den Abeelelaan
+BE807,Dorpsstraat
+BE808,Vaalbeekstraat
+BE809,Populierenlaan
+BE810,Ter Elstlaan
+BE811,Ferdinand Verbiestlaan
+BE812,Priorijlaan
+BE813,Goswin III laan
+BE814,Sint-Jorislaan
+BE815,Lievevrouweplein
+BE816,Keibergstraat
+BE817,Henri Geeraertlaan
+BE818,Jef Van Hooflaan
+BE819,Gaston Feremanslaan
+BE820,Arthur Meulemanslaan
+BE821,RenÈ de Clercqlaan
+BE822,Joos Florquinlaan
+BE823,Emiel Hullebroecklaan
+BE824,Renaat Veremanslaan
+BE825,Jos De Haeslaan
+BE826,Lodewijk De Vochtlaan
+BE827,Jef Vanden Eyndelaan
+BE828,Egenhovenweg
+BE829,Kaboutermansstraat
+BE830,Cardenberch
+BE831,Pioengang
+BE832,Hertstraat
+BE833,Kruisstraat
+BE834,Karmelietenberg
+BE835,Sint-Antoniusberg
+BE836,Sint-Beggaberg
+BE837,Sint-Kwintensberg
+BE838,Nieuwe Kerkhofdreef
+BE839,De 4 Vaantjes
+BE840,Vlinderlaan
+BE841,Molstraat
+BE842,Meerdaalboslaan
+BE843,Aarschotsesteenweg
+BE844,Asstraat
+BE845,Zeilstraat
+BE846,Riddersstraat
+BE847,Minderbroedersstraat
+BE848,Sint-Annastraat
+BE849,Onze-Lieve-Vrouwstraat
+BE850,Waaistraat
+BE851,Albert Woutersstraat
+BE852,Stadsvest
+BE853,Marguerite LefËvrelaan
+BE854,Tiensepoort
+BE855,Parijsstraat
+BE856,Sint-Jansbergsesteenweg
+BE857,Celestijnenlaan
+BE858,Kerselarenlaan
+BE859,Broekstraat
+BE860,Francis CrabbÈstraat
+BE861,Boslaan
+BE862,Stationsstraat
+BE863,Korbeekse Kerkstraat
+BE864,Fonteinstraat
+BE865,Nieuwe Mechelsesteenweg
+BE866,Van Sestichstraat
+BE867,Prelatenstraat
+BE868,Edward Van Evenstraat
+BE869,Monnikenstraat
+BE870,Vlamingenstraat
+BE871,Theresianengang
+BE872,Ravenstraat
+BE873,Arendstraat
+BE874,Margarethaplein
+BE875,Bondgenotenlaan
+BE876,Koning Leopold I-straat
+BE877,Justus Lipsiusstraat
+BE878,Jan Stasstraat
+BE879,Willemsstraat
+BE880,Ferdinand Smoldersplein
+BE881,Geldenaaksevest
+BE882,Tiensesteenweg
+BE883,Adjudant Harboortstraat
+BE884,Vlietstraat
+BE885,Korbeek-Losestraat
+BE886,IJzerenpoortstraat
+BE887,Zoutstraat
+BE888,Vaartstraat
+BE889,Diependaalweg
+BE890,Amerikalaan
+BE891,Karel van Lotharingenstraat
+BE892,rue de Renoupre
+BE893,Rue du Palais
+BE894,L¸denscheidsingel
+BE895,Arnoudt Rulenslaan
+BE896,Parkbosstraat
+BE897,Ter Eikenlaan
+BE898,Alaudastraat
+BE899,Saffranenbergstraat
+BE900,Sparrendreef
+BE901,Vlieguit
+BE902,Kerkhofstraat
+BE903,Korbeekstraat
+BE904,Leefdaalse Heideweg
+BE905,W. Van Vlasselaerstraat
+BE906,Wilgendreef
+BE907,Dorpstraat
+BE908,Kleine Kerkstraat
+BE909,Kerkring
+BE910,Hertwinkel
+BE911,Irislaan
+BE912,Lelielaan
+BE913,Rozenlaan
+BE914,Het Bies
+BE915,Bankblokstraat
+BE916,Elzenstraat
+BE917,Voerhoek
+BE918,Slagberg
+BE919,Boskee
+BE920,A. Devriesestraat
+BE921,Eikendreef
+BE922,Tervuursesteenweg
+BE923,Veldbloemenlaan
+BE924,Tulpenlaan
+BE925,Zonnebloemlaan
+BE926,Kruiskouter
+BE927,L. Van Beukenhoudtstraat
+BE928,Lindendreef
+BE929,Kapelberg
+BE930,Blankaart
+BE931,Th. Wautersstraat
+BE932,Bleyenberg
+BE933,Bronstraat
+BE934,Eksterenberg
+BE935,Diestsevest
+BE936,Tiensevest
+BE937,Vuntcomplex
+BE938,Leo Dartelaan
+BE939,Kattebroekstraat
+BE940,Astridlaan
+BE941,Grezstraat
+BE942,Gemeentestraat
+BE943,Duivenstraat
+BE944,Banhagestraat
+BE945,Sint-Joris-Weertstraat
+BE946,Vuurkruisenlaan
+BE947,Rue Moreau
+BE948,Rue d'Andenne
+BE949,Pays de LiËge
+BE950,Rue Thomas
+BE951,Rue du Grand Doyer
+BE952,Rue Fontaine de Gore
+BE953,Loobeekstraat
+BE954,Loobronstraat
+BE955,Looheuvelstraat
+BE956,Heirstraat
+BE957,Rode Kruisplein
+BE958,Oude Rijksbaan
+BE959,Reinboomstraat
+BE960,Grand Route
+BE961,Rue des Prisonniers
+BE962,Rue Saint-Roch
+BE963,Rue du Pessot
+BE964,Rue de Namur
+BE965,Rue du Jonckay
+BE966,Robijnstraat
+BE967,Groenenhoekstraat
+BE968,Lambert Briesstraat
+BE969,Woningenstraat
+BE970,Troyentenhoflaan
+BE971,Elisabethlaan
+BE972,Rond-Point de l'Etoile - Sterreplein
+BE973,Avenue Franklin Roosevelt - Franklin Rooseveltlaan
+BE974,Avenue des Courses - Wedrennenlaan
+BE975,Avenue Ernestine - Ernestinelaan
+BE976,Avenue Maurice - Mauricelaan
+BE977,Rue …mile Banning - …mile Banningstraat
+BE978,Rue …lise - Elizastraat
+BE979,Place de la Petite Suisse - Klein-Zwitserlandplein
+BE980,Rue Maximilien - Maximilienstraat
+BE981,Rue des HellËnes - Hellenenstraat
+BE982,Rue du Tilloi
+BE983,Rue du Muturnia
+BE984,Square Albert DevËze - Albert DevËzesquare
+BE985,Square des Latins - Latijnensquare
+BE986,Rue EugËne Cattoir - EugËne Cattoirstraat
+BE987,Rue du Printemps - Lentestraat
+BE988,Rue de l'Automne - Herfststraat
+BE989,Rue CÈsar Franck - CÈsar Franckstraat
+BE990,Rue de l'…tÈ - Zomerstraat
+BE991,Saffierstraat
+BE992,Langemarkstraat
+BE993,Kortemarkstraat
+BE994,Pervijzestraat
+BE995,Zillebekelaan
+BE996,Geluwestraat
+BE997,Helderstraat
+BE998,Turkooisstraat
+BE999,Haachtstraat
